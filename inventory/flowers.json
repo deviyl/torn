@@ -1,0 +1,41 @@
+{
+  "updated_at": "2026-04-20T20:57:09.171Z",
+  "category": "Flower",
+  "items": [
+    {
+      "id": 271,
+      "name": "Ceibo Flower",
+      "quantity": 49
+    },
+    {
+      "id": 277,
+      "name": "Cherry Blossom",
+      "quantity": 125
+    },
+    {
+      "id": 263,
+      "name": "Crocus",
+      "quantity": 49
+    },
+    {
+      "id": 260,
+      "name": "Dahlia",
+      "quantity": 38
+    },
+    {
+      "id": 272,
+      "name": "Edelweiss",
+      "quantity": 28
+    },
+    {
+      "id": 264,
+      "name": "Orchid",
+      "quantity": 104
+    },
+    {
+      "id": 276,
+      "name": "Peony",
+      "quantity": 20
+    }
+  ]
+}
