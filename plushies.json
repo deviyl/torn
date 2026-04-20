@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-04-20T02:51:55.746Z",
+  "plushies": [
+    {
+      "id": 273,
+      "name": "Chamois Plushie",
+      "quantity": 20,
+      "unit_price": 9857,
+      "total_value": 197140
+    },
+    {
+      "id": 258,
+      "name": "Jaguar Plushie",
+      "quantity": 29,
+      "unit_price": 14229,
+      "total_value": 412641
+    },
+    {
+      "id": 215,
+      "name": "Kitten Plushie",
+      "quantity": 7,
+      "unit_price": 568,
+      "total_value": 3976
+    },
+    {
+      "id": 269,
+      "name": "Monkey Plushie",
+      "quantity": 47,
+      "unit_price": 33716,
+      "total_value": 1584652
+    },
+    {
+      "id": 266,
+      "name": "Nessie Plushie",
+      "quantity": 59,
+      "unit_price": 33019,
+      "total_value": 1948121
+    },
+    {
+      "id": 274,
+      "name": "Panda Plushie",
+      "quantity": 21,
+      "unit_price": 55273,
+      "total_value": 1160733
+    },
+    {
+      "id": 618,
+      "name": "Stingray Plushie",
+      "quantity": 129,
+      "unit_price": 6601,
+      "total_value": 851529
+    },
+    {
+      "id": 261,
+      "name": "Wolverine Plushie",
+      "quantity": 330,
+      "unit_price": 6691,
+      "total_value": 2208030
+    }
+  ]
+}
