@@ -1,0 +1,51 @@
+{
+  "updated_at": "2026-04-20T11:38:33.232Z",
+  "category": "Melee",
+  "items": [
+    {
+      "id": 395,
+      "name": "Metal Nunchaku",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "name": "Axe",
+      "quantity": 1
+    },
+    {
+      "id": 1257,
+      "name": "Cattle Prod",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "name": "Crowbar",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "name": "Crowbar",
+      "quantity": 1
+    },
+    {
+      "id": 359,
+      "name": "Fine Chisel",
+      "quantity": 1
+    },
+    {
+      "id": 1,
+      "name": "Hammer",
+      "quantity": 1
+    },
+    {
+      "id": 440,
+      "name": "Pillow",
+      "quantity": 1
+    },
+    {
+      "id": 440,
+      "name": "Pillow",
+      "quantity": 1
+    }
+  ]
+}
