@@ -269,5 +269,4 @@ tbody td.col-left {
 
 @media (max-width: 600px) {
   .container { width: 98%; }
-  .meta-group { margin-left: 0; }
 }
