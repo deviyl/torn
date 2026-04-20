@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prices</title>
+    <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/deviyl/media/refs/heads/main/icons/devicon.png">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="main-wrapper">
+      <div class="container">
+        <h1>LMN_OP Prices</h1>
+        <p class="dashboard-note">
+          <span class="note-label">Note:</span>
+          Prices pulled from current TornExchange list.
+        </p>
+        <div class="controls-row">
+          <div class="filter-group">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="Plushies">Plushies</button>
+            <button class="filter-btn" data-filter="Flowers">Flowers</button>
+          </div>
+          <div class="sort-group">
+            <span class="sort-label">Sort:</span>
+            <select id="sort-select">
+              <option value="total-desc">Total ↓</option>
+              <option value="total-asc">Total ↑</option>
+              <option value="name-asc">Name A–Z</option>
+              <option value="price-desc">Unit Price ↓</option>
+              <option value="qty-desc">Quantity ↓</option>
+            </select>
+          </div>
+          <div class="meta-group">
+            <span id="last-updated" class="meta-text">Loading...</span>
+          </div>
+        </div>
+        <div class="table-scroll">
+          <table id="inventory-table">
+            <thead id="table-head"></thead>
+            <tbody id="table-body">
+              <tr class="error-row"><td colspan="5">Loading...</td></tr>
+            </tbody>
+            <tfoot id="table-foot"></tfoot>
+          </table>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
