@@ -12,15 +12,22 @@
 
       <!-- Page header / meta -->
       <div class="container">
-        <h1>Inventory Pricer</h1>
+        <h1 id="page-title">Loading...</h1>
         <p class="dashboard-note">
           <span class="note-label">Note:</span>
-          Prices are pulled from the buyer's current offer list. Unit price × quantity = total value per item.
-          Items with no matching buyer price are shown with a dash. Use the checkboxes to include or exclude
+          Prices are pulled from the buyer's current offer list. Use the checkboxes to include or exclude
           a category from the grand total.
         </p>
         <div class="meta-row">
           <span id="last-updated" class="meta-text">Loading...</span>
+        </div>
+      </div>
+
+      <!-- Grand total -->
+      <div class="container" id="grand-total-container">
+        <div class="grand-total-row">
+          <span class="grand-total-label">Grand Total</span>
+          <span class="grand-total-value" id="grand-total">—</span>
         </div>
       </div>
 
@@ -61,14 +68,6 @@
               <tr class="error-row"><td colspan="4">Loading...</td></tr>
             </tbody>
           </table>
-        </div>
-      </div>
-
-      <!-- Grand total -->
-      <div class="container" id="grand-total-container">
-        <div class="grand-total-row">
-          <span class="grand-total-label">Grand Total</span>
-          <span class="grand-total-value" id="grand-total">—</span>
         </div>
       </div>
 
