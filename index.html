@@ -3,48 +3,75 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prices</title>
+    <title>Inventory Pricer</title>
     <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/deviyl/media/refs/heads/main/icons/devicon.png">
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <div class="main-wrapper">
+
+      <!-- Page header / meta -->
       <div class="container">
-        <h1>LMN_OP Prices</h1>
+        <h1>Inventory Pricer</h1>
         <p class="dashboard-note">
           <span class="note-label">Note:</span>
-          Prices pulled from current TornExchange list.
+          Prices are pulled from the buyer's current offer list. Unit price × quantity = total value per item.
+          Items with no matching buyer price are shown with a dash. Use the checkboxes to include or exclude
+          a category from the grand total.
         </p>
-        <div class="controls-row">
-          <div class="filter-group">
-            <button class="filter-btn active" data-filter="all">All</button>
-            <button class="filter-btn" data-filter="Plushies">Plushies</button>
-            <button class="filter-btn" data-filter="Flowers">Flowers</button>
-          </div>
-          <div class="sort-group">
-            <span class="sort-label">Sort:</span>
-            <select id="sort-select">
-              <option value="total-desc">Total ↓</option>
-              <option value="total-asc">Total ↑</option>
-              <option value="name-asc">Name A–Z</option>
-              <option value="price-desc">Unit Price ↓</option>
-              <option value="qty-desc">Quantity ↓</option>
-            </select>
-          </div>
-          <div class="meta-group">
-            <span id="last-updated" class="meta-text">Loading...</span>
-          </div>
+        <div class="meta-row">
+          <span id="last-updated" class="meta-text">Loading...</span>
+        </div>
+      </div>
+
+      <!-- Plushies -->
+      <div class="container" id="section-Plushies">
+        <div class="section-header">
+          <label class="include-label" title="Include in grand total">
+            <input type="checkbox" class="include-check" data-category="Plushies" checked>
+            Include in total
+          </label>
+          <h2 class="section-title">Plushies</h2>
+          <span class="section-subtotal" id="subtotal-Plushies">—</span>
         </div>
         <div class="table-scroll">
-          <table id="inventory-table">
-            <thead id="table-head"></thead>
-            <tbody id="table-body">
-              <tr class="error-row"><td colspan="5">Loading...</td></tr>
+          <table>
+            <thead id="head-Plushies"></thead>
+            <tbody id="body-Plushies">
+              <tr class="error-row"><td colspan="4">Loading...</td></tr>
             </tbody>
-            <tfoot id="table-foot"></tfoot>
           </table>
         </div>
       </div>
+
+      <!-- Flowers -->
+      <div class="container" id="section-Flowers">
+        <div class="section-header">
+          <label class="include-label" title="Include in grand total">
+            <input type="checkbox" class="include-check" data-category="Flowers" checked>
+            Include in total
+          </label>
+          <h2 class="section-title">Flowers</h2>
+          <span class="section-subtotal" id="subtotal-Flowers">—</span>
+        </div>
+        <div class="table-scroll">
+          <table>
+            <thead id="head-Flowers"></thead>
+            <tbody id="body-Flowers">
+              <tr class="error-row"><td colspan="4">Loading...</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- Grand total -->
+      <div class="container" id="grand-total-container">
+        <div class="grand-total-row">
+          <span class="grand-total-label">Grand Total</span>
+          <span class="grand-total-value" id="grand-total">—</span>
+        </div>
+      </div>
+
     </div>
     <script src="script.js"></script>
   </body>
