@@ -7,20 +7,15 @@ const INVENTORY_FILES = [
 ];
 const PRICES_FILE = 'prices/LMN_OP.json';
 
-const LABELS = {
-  category:  'Category',
-  name:      'Item',
-  qty:       'Qty',
-  unitPrice: 'Unit Price',
-  total:     'Total Value',
-};
+const COL_LABELS = ['Item', 'Qty', 'Unit Price', 'Total Value'];
 
 // ---------------------------------------------------------------------------
 // State
 // ---------------------------------------------------------------------------
-let allRows    = [];   // { category, name, qty, unitPrice, total }
-let activeFilter = 'all';
-let activeSort   = 'total-desc';
+// category → { rows: [...], subtotal: number }
+const categoryData = {};
+// category → boolean (included in grand total)
+const included = { Plushies: true, Flowers: true };
 
 // ---------------------------------------------------------------------------
 // Formatting helpers
@@ -37,140 +32,98 @@ function escHtml(str) {
 }
 
 // ---------------------------------------------------------------------------
-// Sort
+// Grand total
 // ---------------------------------------------------------------------------
-function getSortValue(row, key) {
-  switch (key) {
-    case 'total-desc':
-    case 'total-asc':   return row.total ?? -Infinity;
-    case 'name-asc':    return row.name.toLowerCase();
-    case 'price-desc':  return row.unitPrice ?? -Infinity;
-    case 'qty-desc':    return row.qty;
-    default:            return 0;
+function updateGrandTotal() {
+  let total = 0;
+  for (const [cat, data] of Object.entries(categoryData)) {
+    if (included[cat]) total += data.subtotal;
   }
-}
-
-function sortedRows(rows) {
-  return [...rows].sort((a, b) => {
-    const av = getSortValue(a, activeSort);
-    const bv = getSortValue(b, activeSort);
-    const dir = activeSort.endsWith('asc') ? 1 : -1;
-    if (av < bv) return dir;
-    if (av > bv) return -dir;
-    return 0;
-  });
+  document.getElementById('grand-total').textContent = formatCurrency(total);
 }
 
 // ---------------------------------------------------------------------------
-// Rendering
+// Render one category table
 // ---------------------------------------------------------------------------
-function buildHeader() {
-  const thead = document.getElementById('table-head');
+function buildCategoryTable(category, rows) {
+  // Header
+  const thead = document.getElementById(`head-${category}`);
   thead.innerHTML = '';
   const tr = document.createElement('tr');
-
-  Object.entries(LABELS).forEach(([key, label]) => {
+  COL_LABELS.forEach((label, i) => {
     const th = document.createElement('th');
-    if (key === 'name') th.classList.add('col-left');
+    if (i === 0) th.classList.add('col-left');
     th.textContent = label;
     tr.appendChild(th);
   });
-
   thead.appendChild(tr);
-}
 
-function renderRow(row) {
-  const tr = document.createElement('tr');
-
-  // Category badge
-  const tdCat = document.createElement('td');
-  const badge = document.createElement('span');
-  badge.className = `badge badge-${row.category.toLowerCase()}`;
-  badge.textContent = row.category;
-  tdCat.appendChild(badge);
-  tr.appendChild(tdCat);
-
-  // Item name
-  const tdName = document.createElement('td');
-  tdName.className = 'col-left';
-  tdName.textContent = row.name;
-  tr.appendChild(tdName);
-
-  // Quantity
-  const tdQty = document.createElement('td');
-  tdQty.textContent = row.qty.toLocaleString();
-  tr.appendChild(tdQty);
-
-  // Unit price
-  const tdPrice = document.createElement('td');
-  if (row.unitPrice !== null) {
-    tdPrice.className = 'value-unit';
-    tdPrice.textContent = formatCurrency(row.unitPrice);
-  } else {
-    tdPrice.className = 'value-none';
-    tdPrice.textContent = '—';
-  }
-  tr.appendChild(tdPrice);
-
-  // Total value
-  const tdTotal = document.createElement('td');
-  if (row.total !== null) {
-    tdTotal.className = 'value-total';
-    tdTotal.textContent = formatCurrency(row.total);
-  } else {
-    tdTotal.className = 'value-none';
-    tdTotal.textContent = '—';
-  }
-  tr.appendChild(tdTotal);
-
-  return tr;
-}
-
-function buildRows() {
-  const tbody = document.getElementById('table-body');
-  const tfoot = document.getElementById('table-foot');
+  // Body
+  const tbody = document.getElementById(`body-${category}`);
   tbody.innerHTML = '';
-  tfoot.innerHTML = '';
-
-  const filtered = activeFilter === 'all'
-    ? allRows
-    : allRows.filter(r => r.category === activeFilter);
-
-  const rows = sortedRows(filtered);
 
   if (!rows.length) {
-    tbody.innerHTML = `<tr class="error-row"><td colspan="5">No items match this filter.</td></tr>`;
+    tbody.innerHTML = `<tr class="error-row"><td colspan="4">No items found.</td></tr>`;
     return;
   }
 
-  rows.forEach(row => tbody.appendChild(renderRow(row)));
+  rows.forEach(row => {
+    const tr = document.createElement('tr');
 
-  // Grand total footer
-  const grandTotal = rows.reduce((sum, r) => sum + (r.total ?? 0), 0);
-  const tfr = document.createElement('tr');
-  tfr.innerHTML = `
-    <td colspan="4">Grand Total</td>
-    <td class="gt-value">${formatCurrency(grandTotal)}</td>
-  `;
-  tfoot.appendChild(tfr);
+    // Item name
+    const tdName = document.createElement('td');
+    tdName.className = 'col-left';
+    tdName.textContent = row.name;
+    tr.appendChild(tdName);
+
+    // Qty
+    const tdQty = document.createElement('td');
+    tdQty.textContent = row.qty.toLocaleString();
+    tr.appendChild(tdQty);
+
+    // Unit price
+    const tdPrice = document.createElement('td');
+    if (row.unitPrice !== null) {
+      tdPrice.className = 'value-unit';
+      tdPrice.textContent = formatCurrency(row.unitPrice);
+    } else {
+      tdPrice.className = 'value-none';
+      tdPrice.textContent = '—';
+    }
+    tr.appendChild(tdPrice);
+
+    // Total value
+    const tdTotal = document.createElement('td');
+    if (row.total !== null) {
+      tdTotal.className = 'value-total';
+      tdTotal.textContent = formatCurrency(row.total);
+    } else {
+      tdTotal.className = 'value-none';
+      tdTotal.textContent = '—';
+    }
+    tr.appendChild(tdTotal);
+
+    tbody.appendChild(tr);
+  });
+
+  // Subtotal display
+  const subtotal = rows.reduce((sum, r) => sum + (r.total ?? 0), 0);
+  document.getElementById(`subtotal-${category}`).textContent = formatCurrency(subtotal);
+  categoryData[category] = { rows, subtotal };
 }
 
 // ---------------------------------------------------------------------------
-// Controls
+// Checkbox setup
 // ---------------------------------------------------------------------------
-function setupControls() {
-  document.querySelectorAll('.filter-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      activeFilter = btn.dataset.filter;
-      buildRows();
+function setupCheckboxes() {
+  document.querySelectorAll('.include-check').forEach(cb => {
+    cb.addEventListener('change', () => {
+      const cat = cb.dataset.category;
+      included[cat] = cb.checked;
+      // Toggle visual dim on the container
+      document.getElementById(`section-${cat}`).classList.toggle('excluded', !cb.checked);
+      updateGrandTotal();
     });
-  });
-
-  document.getElementById('sort-select').addEventListener('change', e => {
-    activeSort = e.target.value;
-    buildRows();
   });
 }
 
@@ -178,7 +131,7 @@ function setupControls() {
 // Init
 // ---------------------------------------------------------------------------
 async function init() {
-  setupControls();
+  setupCheckboxes();
 
   try {
     const fetches = [
@@ -202,29 +155,36 @@ async function init() {
       : 'Unknown';
     document.getElementById('last-updated').textContent = `Prices updated: ${updatedAt}`;
 
-    // Merge inventory with prices
-    allRows = [];
+    // Build each category table
     inventoryDataArr.forEach((invData, idx) => {
       const category = INVENTORY_FILES[idx].category;
-      if (!invData || !Array.isArray(invData.items)) return;
+      if (!invData || !Array.isArray(invData.items)) {
+        buildCategoryTable(category, []);
+        return;
+      }
 
-      invData.items.forEach(item => {
+      const rows = invData.items.map(item => {
         const unitPrice = priceMap.hasOwnProperty(item.id) ? priceMap[item.id] : null;
         const total     = unitPrice !== null ? unitPrice * item.quantity : null;
-        allRows.push({ category, name: item.name, qty: item.quantity, unitPrice, total });
+        return { name: item.name, qty: item.quantity, unitPrice, total };
       });
+
+      // Sort by total descending by default
+      rows.sort((a, b) => (b.total ?? -Infinity) - (a.total ?? -Infinity));
+
+      buildCategoryTable(category, rows);
     });
 
-    if (!allRows.length) throw new Error('No inventory items found');
-
-    buildHeader();
-    buildRows();
+    updateGrandTotal();
 
   } catch (e) {
     console.error('Init error:', e);
     document.getElementById('last-updated').textContent = 'Error loading data';
-    document.getElementById('table-body').innerHTML =
-      `<tr class="error-row"><td colspan="5">Failed to load data: ${escHtml(e.message)}</td></tr>`;
+    INVENTORY_FILES.forEach(({ category }) => {
+      const tbody = document.getElementById(`body-${category}`);
+      if (tbody) tbody.innerHTML =
+        `<tr class="error-row"><td colspan="4">Failed to load: ${escHtml(e.message)}</td></tr>`;
+    });
   }
 }
 
