@@ -2,8 +2,8 @@
 // Config
 // ---------------------------------------------------------------------------
 const INVENTORY_FILES = [
-  { path: 'plushies.json', category: 'Plushies' },
-  { path: 'flowers.json',  category: 'Flowers'  },
+  { path: 'inventory/plushies.json', category: 'Plushies' },
+  { path: 'inventory/flowers.json',  category: 'Flowers'  },
 ];
 const PRICES_FILE = 'prices/LMN_OP.json';
 
@@ -148,6 +148,12 @@ async function init() {
     if (priceData && Array.isArray(priceData.items)) {
       priceData.items.forEach(item => { priceMap[item.id] = item.price; });
     }
+
+    // Update page title and h1 from seller name
+    const seller = priceData?.seller || 'Unknown';
+    const pageTitle = `${seller}'s Prices`;
+    document.title = pageTitle;
+    document.getElementById('page-title').textContent = pageTitle;
 
     // Update last-updated meta
     const updatedAt = priceData?.updated_at
