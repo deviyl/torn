@@ -1,186 +1,186 @@
 {
-  "updated_at": "2026-04-21T11:09:47.041Z",
+  "updated_at": "2026-04-21T11:45:32.653Z",
   "seller": "LMN_OP",
   "items": [
     {
       "id": 384,
       "name": "Camel Plushie",
       "category": "Plushies",
-      "price": 74469
+      "price": 74580
     },
     {
       "id": 281,
       "name": "Lion Plushie",
       "category": "Plushies",
-      "price": 64291
+      "price": 64458
     },
     {
       "id": 274,
       "name": "Panda Plushie",
       "category": "Plushies",
-      "price": 55881
+      "price": 56109
     },
     {
       "id": 269,
       "name": "Monkey Plushie",
       "category": "Plushies",
-      "price": 34076
+      "price": 34074
     },
     {
       "id": 268,
       "name": "Red Fox Plushie",
       "category": "Plushies",
-      "price": 33958
+      "price": 34077
     },
     {
       "id": 266,
       "name": "Nessie Plushie",
       "category": "Plushies",
-      "price": 33531
+      "price": 33588
     },
     {
       "id": 258,
       "name": "Jaguar Plushie",
       "category": "Plushies",
-      "price": 14378
+      "price": 14370
     },
     {
       "id": 273,
       "name": "Chamois Plushie",
       "category": "Plushies",
-      "price": 10177
+      "price": 10250
     },
     {
       "id": 261,
       "name": "Wolverine Plushie",
       "category": "Plushies",
-      "price": 6892
+      "price": 6854
     },
     {
       "id": 618,
       "name": "Stingray Plushie",
       "category": "Plushies",
-      "price": 6669
+      "price": 6463
     },
     {
       "id": 215,
       "name": "Kitten Plushie",
       "category": "Plushies",
-      "price": 574
-    },
-    {
-      "id": 187,
-      "name": "Teddy Bear Plushie",
-      "category": "Plushies",
-      "price": 593
+      "price": 568
     },
     {
       "id": 186,
       "name": "Sheep Plushie",
       "category": "Plushies",
-      "price": 565
+      "price": 600
+    },
+    {
+      "id": 187,
+      "name": "Teddy Bear Plushie",
+      "category": "Plushies",
+      "price": 591
     },
     {
       "id": 385,
       "name": "Tribulus Omanense",
       "category": "Flowers",
-      "price": 68673
+      "price": 68878
     },
     {
       "id": 282,
       "name": "African Violet",
       "category": "Flowers",
-      "price": 65707
+      "price": 65685
     },
     {
       "id": 276,
       "name": "Peony",
       "category": "Flowers",
-      "price": 60430
+      "price": 60373
     },
     {
       "id": 267,
       "name": "Heather",
       "category": "Flowers",
-      "price": 38526
+      "price": 38501
     },
     {
       "id": 271,
       "name": "Ceibo Flower",
       "category": "Flowers",
-      "price": 32926
+      "price": 32927
     },
     {
       "id": 277,
       "name": "Cherry Blossom",
       "category": "Flowers",
-      "price": 31763
+      "price": 31671
     },
     {
       "id": 617,
       "name": "Banana Orchid",
       "category": "Flowers",
-      "price": 9407
+      "price": 9571
     },
     {
       "id": 272,
       "name": "Edelweiss",
       "category": "Flowers",
-      "price": 8815
+      "price": 9009
     },
     {
       "id": 264,
       "name": "Orchid",
       "category": "Flowers",
-      "price": 6727
+      "price": 6796
     },
     {
       "id": 263,
       "name": "Crocus",
       "category": "Flowers",
-      "price": 6761
+      "price": 6781
     },
     {
       "id": 903,
       "name": "White Lily",
       "category": "Flowers",
-      "price": 3967
+      "price": 4086
     },
     {
       "id": 260,
       "name": "Dahlia",
       "category": "Flowers",
-      "price": 2451
+      "price": 2457
     },
     {
       "id": 184,
       "name": "Bunch of Black Roses",
       "category": "Flowers",
-      "price": 514
+      "price": 512
     },
     {
       "id": 183,
       "name": "Single Red Rose",
       "category": "Flowers",
-      "price": 290
+      "price": 291
     },
     {
       "id": 129,
       "name": "Dozen Roses",
       "category": "Flowers",
-      "price": 277
+      "price": 278
     },
     {
       "id": 901,
       "name": "Daffodil",
       "category": "Flowers",
-      "price": 232
+      "price": 241
     },
     {
       "id": 904,
       "name": "Funeral Wreath",
       "category": "Flowers",
-      "price": 221
+      "price": 225
     },
     {
       "id": 97,
@@ -192,289 +192,289 @@
       "id": 902,
       "name": "Bunch of Carnations",
       "category": "Flowers",
-      "price": 208
+      "price": 214
     },
     {
       "id": 870,
       "name": "Love Juice",
       "category": "Drugs",
-      "price": 2347464
+      "price": 2359870
     },
     {
       "id": 206,
       "name": "Xanax",
       "category": "Drugs",
-      "price": 852663
+      "price": 852621
     },
     {
       "id": 197,
       "name": "Ecstasy",
       "category": "Drugs",
-      "price": 41833
+      "price": 41661
     },
     {
       "id": 200,
       "name": "Opium",
       "category": "Drugs",
-      "price": 27073
+      "price": 26841
     },
     {
       "id": 199,
       "name": "LSD",
       "category": "Drugs",
-      "price": 26048
+      "price": 26018
     },
     {
       "id": 196,
       "name": "Cannabis",
       "category": "Drugs",
-      "price": 9200
+      "price": 8280
     },
     {
       "id": 203,
       "name": "Shrooms",
       "category": "Drugs",
-      "price": 5198
+      "price": 5384
     },
     {
       "id": 201,
       "name": "PCP",
       "category": "Drugs",
-      "price": 3374
+      "price": 3319
     },
     {
       "id": 204,
       "name": "Speed",
       "category": "Drugs",
-      "price": 2695
+      "price": 2668
     },
     {
       "id": 198,
       "name": "Ketamine",
       "category": "Drugs",
-      "price": 2230
+      "price": 2201
     },
     {
       "id": 205,
       "name": "Vicodin",
       "category": "Drugs",
-      "price": 1001
+      "price": 989
     },
     {
       "id": 555,
       "name": "Can of X-MASS",
       "category": "Energy Drinks",
-      "price": 3133019
+      "price": 3129419
     },
     {
       "id": 533,
       "name": "Can of Taurine Elite",
       "category": "Energy Drinks",
-      "price": 3125382
+      "price": 3126261
     },
     {
       "id": 554,
       "name": "Can of Rockstar Rudolph",
       "category": "Energy Drinks",
-      "price": 1958174
+      "price": 1953654
     },
     {
       "id": 532,
       "name": "Can of Red Cow",
       "category": "Energy Drinks",
-      "price": 1949543
+      "price": 1945890
     },
     {
       "id": 553,
       "name": "Can of Santa Shooters",
       "category": "Energy Drinks",
-      "price": 1466268
+      "price": 1467619
     },
     {
       "id": 530,
       "name": "Can of Munster",
       "category": "Energy Drinks",
-      "price": 1461491
+      "price": 1466709
     },
     {
       "id": 987,
       "name": "Can of Crocozade",
       "category": "Energy Drinks",
-      "price": 987759
+      "price": 986779
     },
     {
       "id": 986,
       "name": "Can of Damp Valley",
       "category": "Energy Drinks",
-      "price": 638168
+      "price": 638292
     },
     {
       "id": 985,
       "name": "Can of Goose Juice",
       "category": "Energy Drinks",
-      "price": 297001
+      "price": 297407
     },
     {
       "id": 561,
       "name": "Book of Carols",
       "category": "Boosters",
-      "price": 12271918
+      "price": 12179257
     },
     {
       "id": 367,
       "name": "Feathery Hotel Coupon",
       "category": "Boosters",
-      "price": 12066460
+      "price": 11975955
     },
     {
       "id": 366,
       "name": "Erotic DVD",
       "category": "Boosters",
-      "price": 3933756
+      "price": 3940578
     },
     {
       "id": 563,
       "name": "Gift Card",
       "category": "Boosters",
-      "price": 2943091
+      "price": 2919700
     },
     {
       "id": 368,
       "name": "Lawyer's Business Card",
       "category": "Boosters",
-      "price": 194963
+      "price": 194699
     },
     {
       "id": 924,
       "name": "Bottle of Christmas Spirit",
       "category": "Alcohol",
-      "price": 1230712
+      "price": 1293434
     },
     {
       "id": 984,
       "name": "Bottle of Moonshine",
       "category": "Alcohol",
-      "price": 924181
+      "price": 907827
     },
     {
       "id": 873,
       "name": "Bottle of Green Stout",
       "category": "Alcohol",
-      "price": 841421
+      "price": 838875
     },
     {
       "id": 541,
       "name": "Bottle of Stinky Swamp Punch",
       "category": "Alcohol",
-      "price": 268685
+      "price": 271270
     },
     {
       "id": 552,
       "name": "Bottle of Mistletoe Madness",
       "category": "Alcohol",
-      "price": 267772
+      "price": 268428
     },
     {
       "id": 638,
       "name": "Bottle of Christmas Cocktail",
       "category": "Alcohol",
-      "price": 141133
+      "price": 140735
     },
     {
       "id": 542,
       "name": "Bottle of Wicked Witch",
       "category": "Alcohol",
-      "price": 134135
+      "price": 134733
     },
     {
       "id": 551,
       "name": "Bottle of Minty Mayhem",
       "category": "Alcohol",
-      "price": 132292
+      "price": 134076
     },
     {
       "id": 550,
       "name": "Bottle of Kandy Kane",
       "category": "Alcohol",
-      "price": 51708
+      "price": 51938
     },
     {
       "id": 531,
       "name": "Bottle of Pumpkin Brew",
       "category": "Alcohol",
-      "price": 50699
+      "price": 49470
     },
     {
       "id": 181,
       "name": "Bottle of Champagne",
       "category": "Alcohol",
-      "price": 2844
+      "price": 2829
     },
     {
       "id": 294,
       "name": "Bottle of Sake",
       "category": "Alcohol",
-      "price": 1518
+      "price": 1521
     },
     {
       "id": 426,
       "name": "Bottle of Tequila",
       "category": "Alcohol",
-      "price": 656
+      "price": 651
     },
     {
       "id": 180,
       "name": "Bottle of Beer",
       "category": "Alcohol",
-      "price": 614
+      "price": 615
     },
     {
       "id": 1363,
       "name": "Ipecac Syrup",
       "category": "Medical",
-      "price": 38316
+      "price": 39433
     },
     {
       "id": 1012,
       "name": "Blood Bag : Irradiated",
       "category": "Medical",
-      "price": 22356
+      "price": 21605
     },
     {
       "id": 737,
       "name": "Blood Bag : AB-",
       "category": "Medical",
-      "price": 21900
+      "price": 22278
     },
     {
       "id": 735,
       "name": "Blood Bag : B-",
       "category": "Medical",
-      "price": 21842
+      "price": 21686
     },
     {
       "id": 739,
       "name": "Blood Bag : O-",
       "category": "Medical",
-      "price": 17986
-    },
-    {
-      "id": 733,
-      "name": "Blood Bag : A-",
-      "category": "Medical",
-      "price": 16358
+      "price": 17178
     },
     {
       "id": 736,
       "name": "Blood Bag : AB+",
       "category": "Medical",
-      "price": 16738
+      "price": 16941
+    },
+    {
+      "id": 733,
+      "name": "Blood Bag : A-",
+      "category": "Medical",
+      "price": 16079
     },
     {
       "id": 734,
       "name": "Blood Bag : B+",
       "category": "Medical",
-      "price": 16055
+      "price": 15987
     },
     {
       "id": 738,
@@ -486,241 +486,241 @@
       "id": 732,
       "name": "Blood Bag : A+",
       "category": "Medical",
-      "price": 15559
+      "price": 15503
     },
     {
       "id": 731,
       "name": "Empty Blood Bag",
       "category": "Medical",
-      "price": 15476
+      "price": 15402
     },
     {
       "id": 66,
       "name": "Morphine",
       "category": "Medical",
-      "price": 13583
+      "price": 13538
     },
     {
       "id": 67,
       "name": "First Aid Kit",
       "category": "Medical",
-      "price": 9005
+      "price": 9021
     },
     {
       "id": 68,
       "name": "Small First Aid Kit",
       "category": "Medical",
-      "price": 4000
+      "price": 3998
     },
     {
       "id": 465,
       "name": "Serotonin",
       "category": "Temporary",
-      "price": 1270265
+      "price": 1255978
     },
     {
       "id": 1294,
       "name": "Glitter Bomb",
       "category": "Temporary",
-      "price": 864069
+      "price": 857117
     },
     {
       "id": 463,
       "name": "Epinephrine",
       "category": "Temporary",
-      "price": 873517
+      "price": 867170
     },
     {
       "id": 814,
       "name": "Tyrosine",
       "category": "Temporary",
-      "price": 574465
+      "price": 572822
     },
     {
       "id": 464,
       "name": "Melatonin",
       "category": "Temporary",
-      "price": 278011
+      "price": 277060
     },
     {
       "id": 1178,
       "name": "Party Popper",
       "category": "Temporary",
-      "price": 141050
+      "price": 139578
     },
     {
       "id": 742,
       "name": "Molotov Cocktail",
       "category": "Temporary",
-      "price": 99987
+      "price": 100873
     },
     {
       "id": 226,
       "name": "Smoke Grenade",
       "category": "Temporary",
-      "price": 78656
+      "price": 79145
     },
     {
       "id": 256,
       "name": "Tear Gas",
       "category": "Temporary",
-      "price": 47741
+      "price": 49869
     },
     {
       "id": 257,
       "name": "Throwing Knife",
       "category": "Temporary",
-      "price": 28054
-    },
-    {
-      "id": 611,
-      "name": "Snowball",
-      "category": "Temporary",
-      "price": 18969
+      "price": 28041
     },
     {
       "id": 222,
       "name": "Flash Grenade",
       "category": "Temporary",
-      "price": 18322
+      "price": 20001
+    },
+    {
+      "id": 611,
+      "name": "Snowball",
+      "category": "Temporary",
+      "price": 17808
     },
     {
       "id": 229,
       "name": "Claymore Mine",
       "category": "Temporary",
-      "price": 14039
+      "price": 13943
     },
     {
       "id": 242,
       "name": "HEG",
       "category": "Temporary",
-      "price": 14305
+      "price": 14286
     },
     {
       "id": 221,
       "name": "Stick Grenade",
       "category": "Temporary",
-      "price": 12351
+      "price": 12302
     },
     {
       "id": 220,
       "name": "Grenade",
       "category": "Temporary",
-      "price": 6647
+      "price": 6638
     },
     {
       "id": 616,
       "name": "Trout",
       "category": "Temporary",
-      "price": 4409
+      "price": 4418
     },
     {
       "id": 392,
       "name": "Pepper Spray",
       "category": "Temporary",
-      "price": 1227
+      "price": 1221
     },
     {
       "id": 239,
       "name": "Ninja Star",
       "category": "Temporary",
-      "price": 871
+      "price": 859
     },
     {
       "id": 1205,
       "name": "Wrench",
       "category": "Temporary",
-      "price": 522
+      "price": 517
     },
     {
       "id": 394,
       "name": "Brick",
       "category": "Temporary",
-      "price": 504
+      "price": 502
     },
     {
       "id": 246,
       "name": "Fireworks",
       "category": "Temporary",
-      "price": 328
+      "price": 325
     },
     {
       "id": 1028,
       "name": "Birthday Cupcake",
       "category": "Candy",
-      "price": 3369124
+      "price": 3278863
     },
     {
       "id": 1312,
       "name": "Chocolate Egg",
       "category": "Candy",
-      "price": 934747
+      "price": 933127
     },
     {
       "id": 1039,
       "name": "Bag of Humbugs",
       "category": "Candy",
-      "price": 494165
+      "price": 402773
     },
     {
       "id": 586,
       "name": "Jawbreaker",
       "category": "Candy",
-      "price": 308892
+      "price": 308110
     },
     {
       "id": 587,
       "name": "Bag of Sherbet",
       "category": "Candy",
-      "price": 307643
+      "price": 307327
     },
     {
       "id": 151,
       "name": "Pixie Sticks",
       "category": "Candy",
-      "price": 303464
+      "price": 304436
     },
     {
       "id": 556,
       "name": "Bag of Reindeer Droppings",
       "category": "Candy",
-      "price": 131415
+      "price": 131097
     },
     {
       "id": 529,
       "name": "Bag of Chocolate Truffles",
       "category": "Candy",
-      "price": 129066
+      "price": 128671
     },
     {
       "id": 634,
       "name": "Bag of Bloody Eyeballs",
       "category": "Candy",
-      "price": 75583
+      "price": 75746
     },
     {
       "id": 528,
       "name": "Bag of Tootsie Rolls",
       "category": "Candy",
-      "price": 71881
-    },
-    {
-      "id": 527,
-      "name": "Bag of Candy Kisses",
-      "category": "Candy",
-      "price": 47856
+      "price": 71908
     },
     {
       "id": 36,
       "name": "Big Box of Chocolate Bars",
       "category": "Candy",
-      "price": 45278
+      "price": 45391
+    },
+    {
+      "id": 527,
+      "name": "Bag of Candy Kisses",
+      "category": "Candy",
+      "price": 47854
     },
     {
       "id": 310,
       "name": "Lollipop",
       "category": "Candy",
-      "price": 647
+      "price": 643
     },
     {
       "id": 38,
@@ -732,151 +732,151 @@
       "id": 35,
       "name": "Box of Chocolate Bars",
       "category": "Candy",
-      "price": 583
+      "price": 582
     },
     {
       "id": 39,
       "name": "Box of Extra Strong Mints",
       "category": "Candy",
-      "price": 539
-    },
-    {
-      "id": 209,
-      "name": "Box of Sweet Hearts",
-      "category": "Candy",
-      "price": 527
-    },
-    {
-      "id": 37,
-      "name": "Bag of Bon Bons",
-      "category": "Candy",
-      "price": 556
+      "price": 537
     },
     {
       "id": 210,
       "name": "Bag of Chocolate Kisses",
       "category": "Candy",
-      "price": 554
+      "price": 572
+    },
+    {
+      "id": 209,
+      "name": "Box of Sweet Hearts",
+      "category": "Candy",
+      "price": 525
+    },
+    {
+      "id": 37,
+      "name": "Bag of Bon Bons",
+      "category": "Candy",
+      "price": 555
     },
     {
       "id": 865,
       "name": "Poison Mistletoe",
       "category": "Special",
-      "price": 56960533
+      "price": 57446199
     },
     {
       "id": 1029,
       "name": "Strippogram Voucher",
       "category": "Special",
-      "price": 18762499
+      "price": 19202010
     },
     {
       "id": 428,
       "name": "Casino Pass",
       "category": "Special",
-      "price": 13478771
+      "price": 13449221
     },
     {
       "id": 396,
       "name": "Business Class Ticket",
       "category": "Special",
-      "price": 7990777
+      "price": 7961014
     },
     {
       "id": 380,
       "name": "Small Explosive Device",
       "category": "Special",
-      "price": 4238459
+      "price": 4125000
     },
     {
       "id": 580,
       "name": "Horse's Head",
       "category": "Special",
-      "price": 1680922
+      "price": 1679198
     },
     {
       "id": 627,
       "name": "Dog Poop",
       "category": "Special",
-      "price": 724974
+      "price": 722342
     },
     {
       "id": 629,
       "name": "Toilet Paper",
       "category": "Special",
-      "price": 716560
+      "price": 715560
     },
     {
       "id": 628,
       "name": "Stink Bombs",
       "category": "Special",
-      "price": 715678
+      "price": 714449
     },
     {
       "id": 1040,
       "name": "Christmas Cracker",
       "category": "Special",
-      "price": 529958
+      "price": 534869
     },
     {
       "id": 422,
       "name": "Vanity Hand Mirror",
       "category": "Special",
-      "price": 5098
+      "price": 5089
     },
     {
       "id": 104,
       "name": "Game Console",
       "category": "Special",
-      "price": 498
+      "price": 568
     },
     {
       "id": 65,
       "name": "Television",
       "category": "Special",
-      "price": 368
+      "price": 369
     },
     {
       "id": 42,
       "name": "MP3 Player",
       "category": "Special",
-      "price": 431
+      "price": 429
     },
     {
       "id": 43,
       "name": "CD Player",
       "category": "Special",
-      "price": 328
+      "price": 334
     },
     {
       "id": 378,
       "name": "Generic Wrapping Paper",
       "category": "Special",
-      "price": 294
+      "price": 290
     },
     {
       "id": 403,
       "name": "Box of Tissues",
       "category": "Special",
-      "price": 239
+      "price": 236
     },
     {
       "id": 372,
       "name": "Empty Box",
       "category": "Special",
-      "price": 218
+      "price": 216
     },
     {
       "id": 377,
       "name": "Birthday Wrapping Paper",
       "category": "Special",
-      "price": 235
+      "price": 236
     },
     {
       "id": 379,
       "name": "Christmas Wrapping Paper",
       "category": "Special",
-      "price": 204
+      "price": 205
     },
     {
       "id": 283,
@@ -888,313 +888,313 @@
       "id": 818,
       "name": "Six-Pack of Energy Drink",
       "category": "Supply Pack",
-      "price": 12744563
+      "price": 12764959
     },
     {
       "id": 815,
       "name": "Keg of Beer",
       "category": "Supply Pack",
-      "price": 5892117
+      "price": 5925957
     },
     {
       "id": 1113,
       "name": "Naughty Cache",
       "category": "Supply Pack",
-      "price": 5103178
+      "price": 5158886
     },
     {
       "id": 1293,
       "name": "Injury Cache",
       "category": "Supply Pack",
-      "price": 4503263
-    },
-    {
-      "id": 370,
-      "name": "Drug Pack",
-      "category": "Supply Pack",
-      "price": 4439344
+      "price": 4433700
     },
     {
       "id": 1116,
       "name": "Wannabe Cache",
       "category": "Supply Pack",
-      "price": 3780727
+      "price": 4189718
+    },
+    {
+      "id": 370,
+      "name": "Drug Pack",
+      "category": "Supply Pack",
+      "price": 4377932
     },
     {
       "id": 1112,
       "name": "Elegant Cache",
       "category": "Supply Pack",
-      "price": 3391880
+      "price": 3334069
     },
     {
       "id": 1057,
       "name": "Gentleman Cache",
       "category": "Supply Pack",
-      "price": 2753224
+      "price": 2803373
     },
     {
       "id": 1117,
       "name": "Cutesy Cache",
       "category": "Supply Pack",
-      "price": 2538732
+      "price": 2582386
     },
     {
       "id": 1114,
       "name": "Elderly Cache",
       "category": "Supply Pack",
-      "price": 1466037
+      "price": 1458944
     },
     {
       "id": 1298,
       "name": "Tin of Treats",
       "category": "Supply Pack",
-      "price": 1139355
+      "price": 1146363
     },
     {
       "id": 364,
       "name": "Box of Grenades",
       "category": "Supply Pack",
-      "price": 1022198
+      "price": 1026371
     },
     {
       "id": 369,
       "name": "Lottery Voucher",
       "category": "Supply Pack",
-      "price": 899543
+      "price": 898526
     },
     {
       "id": 817,
       "name": "Six-Pack of Alcohol",
       "category": "Supply Pack",
-      "price": 866706
+      "price": 871554
     },
     {
       "id": 1115,
       "name": "Denim Cache",
       "category": "Supply Pack",
-      "price": 664501
+      "price": 680888
     },
     {
       "id": 365,
       "name": "Box of Medical Supplies",
       "category": "Supply Pack",
-      "price": 263310
+      "price": 262771
     },
     {
       "id": 1239,
       "name": "Stash Box",
       "category": "Supply Pack",
-      "price": 48314
+      "price": 46807
     },
     {
       "id": 1080,
       "name": "Billfold",
       "category": "Supply Pack",
-      "price": 33041
+      "price": 34090
     },
     {
       "id": 1079,
       "name": "Cardholder",
       "category": "Supply Pack",
-      "price": 6929
+      "price": 6922
     },
     {
       "id": 1082,
       "name": "Zip Wallet",
       "category": "Supply Pack",
-      "price": 5890
+      "price": 5868
     },
     {
       "id": 1083,
       "name": "Clutch",
       "category": "Supply Pack",
-      "price": 5306
+      "price": 5295
     },
     {
       "id": 1078,
       "name": "Old Wallet",
       "category": "Supply Pack",
-      "price": 4018
+      "price": 3781
     },
     {
       "id": 1081,
       "name": "Coin Purse",
       "category": "Supply Pack",
-      "price": 2876
+      "price": 2870
     },
     {
       "id": 421,
       "name": "Large Suitcase",
       "category": "Enhancers",
-      "price": 9454282
+      "price": 9414234
     },
     {
       "id": 1354,
       "name": "Office Chair",
       "category": "Enhancers",
-      "price": 6546253
-    },
-    {
-      "id": 544,
-      "name": "Windproof Lighter",
-      "category": "Enhancers",
-      "price": 6087890
+      "price": 6871457
     },
     {
       "id": 569,
       "name": "Balaclava",
       "category": "Enhancers",
-      "price": 5934245
+      "price": 5804977
+    },
+    {
+      "id": 544,
+      "name": "Windproof Lighter",
+      "category": "Enhancers",
+      "price": 5744999
     },
     {
       "id": 420,
       "name": "Medium Suitcase",
       "category": "Enhancers",
-      "price": 3692486
+      "price": 3630999
     },
     {
       "id": 819,
       "name": "Rosary Beads",
       "category": "Enhancers",
-      "price": 1828106
+      "price": 1732111
     },
     {
       "id": 573,
       "name": "Screwdriver",
       "category": "Enhancers",
-      "price": 1636814
+      "price": 1683678
     },
     {
       "id": 1346,
       "name": "Magnifying Glass",
       "category": "Enhancers",
-      "price": 1614776
+      "price": 1566207
     },
     {
       "id": 577,
       "name": "Heavy Duty Padlock",
       "category": "Enhancers",
-      "price": 1166425
+      "price": 1279961
     },
     {
       "id": 419,
       "name": "Small Suitcase",
       "category": "Enhancers",
-      "price": 881863
+      "price": 933260
     },
     {
       "id": 578,
       "name": "Duct Tape",
       "category": "Enhancers",
-      "price": 628473
-    },
-    {
-      "id": 576,
-      "name": "Chloroform",
-      "category": "Enhancers",
-      "price": 442796
+      "price": 624146
     },
     {
       "id": 979,
       "name": "Paint Mask",
       "category": "Enhancers",
-      "price": 405016
+      "price": 402137
+    },
+    {
+      "id": 576,
+      "name": "Chloroform",
+      "category": "Enhancers",
+      "price": 424526
     },
     {
       "id": 571,
       "name": "Ergonomic Keyboard",
       "category": "Enhancers",
-      "price": 380404
+      "price": 381266
     },
     {
       "id": 633,
       "name": "Latex Gloves",
       "category": "Enhancers",
-      "price": 333657
+      "price": 336950
     },
     {
       "id": 579,
       "name": "Wireless Dongle",
       "category": "Enhancers",
-      "price": 343438
-    },
-    {
-      "id": 565,
-      "name": "High-Speed Drive",
-      "category": "Enhancers",
-      "price": 208622
-    },
-    {
-      "id": 575,
-      "name": "Tumble Dryer",
-      "category": "Enhancers",
-      "price": 154868
+      "price": 339096
     },
     {
       "id": 570,
       "name": "Advanced Driving Manual",
       "category": "Enhancers",
-      "price": 157897
+      "price": 224220
     },
     {
       "id": 572,
       "name": "Tracking Device",
       "category": "Enhancers",
-      "price": 134019
+      "price": 194917
+    },
+    {
+      "id": 565,
+      "name": "High-Speed Drive",
+      "category": "Enhancers",
+      "price": 207194
+    },
+    {
+      "id": 575,
+      "name": "Tumble Dryer",
+      "category": "Enhancers",
+      "price": 163621
     },
     {
       "id": 574,
       "name": "Fanny Pack",
       "category": "Enhancers",
-      "price": 103696
+      "price": 102377
     },
     {
       "id": 566,
       "name": "Mountain Bike",
       "category": "Enhancers",
-      "price": 74791
+      "price": 78785
     },
     {
       "id": 1353,
       "name": "Megaphone",
       "category": "Enhancers",
-      "price": 50563
+      "price": 50552
     },
     {
       "id": 1351,
       "name": "Flashlight",
       "category": "Enhancers",
-      "price": 46120
+      "price": 45748
     },
     {
       "id": 567,
       "name": "Cut-Throat Razor",
       "category": "Enhancers",
-      "price": 13397
+      "price": 13324
     },
     {
       "id": 564,
       "name": "Glasses",
       "category": "Enhancers",
-      "price": 4295
+      "price": 4317
     },
     {
       "id": 1315,
       "name": "Hot Foil Stamper",
       "category": "Tools",
-      "price": 8383180
+      "price": 8576908
     },
     {
       "id": 103,
       "name": "Firewalk Virus",
       "category": "Tools",
-      "price": 6271194
+      "price": 6284434
     },
     {
       "id": 1314,
       "name": "Embosser",
       "category": "Tools",
-      "price": 4856999
+      "price": 4765821
     },
     {
       "id": 1431,
@@ -1206,109 +1206,109 @@
       "id": 853,
       "name": "Cemetery Key",
       "category": "Tools",
-      "price": 2718464
+      "price": 2709972
     },
     {
       "id": 71,
       "name": "Tunneling Virus",
       "category": "Tools",
-      "price": 2298557
+      "price": 2300489
     },
     {
       "id": 1207,
       "name": "Thimble",
       "category": "Tools",
-      "price": 2147010
+      "price": 2148593
     },
     {
       "id": 852,
       "name": "Metal Detector",
       "category": "Tools",
-      "price": 1372500
+      "price": 1316589
     },
     {
       "id": 1380,
       "name": "RF Detector",
       "category": "Tools",
-      "price": 1377069
+      "price": 1315998
     },
     {
       "id": 1509,
       "name": "Angle Grinder",
       "category": "Tools",
-      "price": 906131
+      "price": 931776
     },
     {
       "id": 70,
       "name": "Polymorphic Virus",
       "category": "Tools",
-      "price": 904730
+      "price": 900501
     },
     {
       "id": 73,
       "name": "Stealth Virus",
       "category": "Tools",
-      "price": 853195
+      "price": 846383
     },
     {
       "id": 1362,
       "name": "Net",
       "category": "Tools",
-      "price": 832763
+      "price": 854396
     },
     {
       "id": 1313,
       "name": "Cassock",
       "category": "Tools",
-      "price": 488429
+      "price": 505030
     },
     {
       "id": 72,
       "name": "Armored Virus",
       "category": "Tools",
-      "price": 482878
+      "price": 491360
     },
     {
       "id": 1332,
       "name": "Wax Seal Stamp",
       "category": "Tools",
-      "price": 352844
+      "price": 346616
     },
     {
       "id": 1329,
       "name": "Perforator",
       "category": "Tools",
-      "price": 356881
+      "price": 361164
     },
     {
       "id": 1338,
       "name": "Polishing Pad",
       "category": "Tools",
-      "price": 264905
+      "price": 263479
     },
     {
       "id": 1379,
       "name": "ATM Key",
       "category": "Tools",
-      "price": 252747
+      "price": 248159
     },
     {
       "id": 1350,
       "name": "Police Badge",
       "category": "Tools",
-      "price": 214032
-    },
-    {
-      "id": 1202,
-      "name": "Window Breaker",
-      "category": "Tools",
-      "price": 180232
+      "price": 214649
     },
     {
       "id": 893,
       "name": "Lost and Found Office Key",
       "category": "Tools",
-      "price": 184041
+      "price": 182524
+    },
+    {
+      "id": 1202,
+      "name": "Window Breaker",
+      "category": "Tools",
+      "price": 178156
     },
     {
       "id": 1124,
@@ -1320,7 +1320,7 @@
       "id": 1383,
       "name": "DSLR Camera",
       "category": "Tools",
-      "price": 158431
+      "price": 157890
     },
     {
       "id": 1431,
@@ -1329,142 +1329,142 @@
       "price": 110999
     },
     {
-      "id": 1334,
-      "name": "Grinding Stone",
-      "category": "Tools",
-      "price": 95726
-    },
-    {
       "id": 1317,
       "name": "Crucible",
       "category": "Tools",
-      "price": 95042
+      "price": 97437
     },
     {
-      "id": 1328,
-      "name": "Graver",
+      "id": 1334,
+      "name": "Grinding Stone",
       "category": "Tools",
-      "price": 76733
+      "price": 93077
     },
     {
       "id": 1204,
       "name": "Skeleton Key",
       "category": "Tools",
-      "price": 73304
+      "price": 73804
+    },
+    {
+      "id": 1328,
+      "name": "Graver",
+      "category": "Tools",
+      "price": 69735
     },
     {
       "id": 1203,
       "name": "Lockpicks",
       "category": "Tools",
-      "price": 53510
+      "price": 52976
     },
     {
       "id": 1327,
       "name": "Printer",
       "category": "Tools",
-      "price": 45778
+      "price": 45525
     },
     {
       "id": 1305,
       "name": "Heat Sink",
       "category": "Tools",
-      "price": 42692
-    },
-    {
-      "id": 1284,
-      "name": "Dental Mirror",
-      "category": "Tools",
-      "price": 34598
-    },
-    {
-      "id": 1223,
-      "name": "Cigar Cutter",
-      "category": "Tools",
-      "price": 32420
+      "price": 42459
     },
     {
       "id": 96,
       "name": "Coat Hanger",
       "category": "Tools",
-      "price": 32242
+      "price": 33581
+    },
+    {
+      "id": 1284,
+      "name": "Dental Mirror",
+      "category": "Tools",
+      "price": 32614
+    },
+    {
+      "id": 1223,
+      "name": "Cigar Cutter",
+      "category": "Tools",
+      "price": 32183
     },
     {
       "id": 1316,
       "name": "Sewing Kit",
       "category": "Tools",
-      "price": 15618
+      "price": 15520
     },
     {
       "id": 1235,
       "name": "Blanket",
       "category": "Tools",
-      "price": 11258
+      "price": 11274
     },
     {
       "id": 1244,
       "name": "Typewriter",
       "category": "Tools",
-      "price": 10650
+      "price": 10777
     },
     {
       "id": 1302,
       "name": "HPCPU",
       "category": "Tools",
-      "price": 7792
+      "price": 7988
     },
     {
       "id": 568,
       "name": "Jemmy",
       "category": "Tools",
-      "price": 8309
+      "price": 8325
     },
     {
       "id": 980,
       "name": "Ladder",
       "category": "Tools",
-      "price": 6680
+      "price": 6559
     },
     {
       "id": 69,
       "name": "Simple Virus",
       "category": "Tools",
-      "price": 4195
+      "price": 4110
     },
     {
       "id": 1304,
       "name": "Water Block",
       "category": "Tools",
-      "price": 3922
+      "price": 3904
     },
     {
       "id": 1261,
       "name": "Bucket",
       "category": "Tools",
-      "price": 4048
+      "price": 3867
     },
     {
       "id": 1215,
       "name": "Scissors",
       "category": "Tools",
-      "price": 3484
+      "price": 3434
     },
     {
       "id": 707,
       "name": "Lump of Coal",
       "category": "Tools",
-      "price": 3074
+      "price": 3062
     },
     {
       "id": 1230,
       "name": "Remote Detonator",
       "category": "Tools",
-      "price": 3283
+      "price": 3313
     },
     {
       "id": 886,
       "name": "Torn City Times",
       "category": "Tools",
-      "price": 2950
+      "price": 2927
     },
     {
       "id": 1331,
@@ -1476,37 +1476,37 @@
       "id": 1125,
       "name": "Card Skimmer",
       "category": "Tools",
-      "price": 2423
+      "price": 2610
     },
     {
       "id": 1466,
       "name": "Lighter",
       "category": "Tools",
-      "price": 2072
+      "price": 2140
     },
     {
       "id": 1258,
       "name": "Binoculars",
       "category": "Tools",
-      "price": 2178
+      "price": 2145
     },
     {
       "id": 981,
       "name": "Wire Cutters",
       "category": "Tools",
-      "price": 2002
+      "price": 1938
     },
     {
       "id": 1303,
       "name": "Computer Fan",
       "category": "Tools",
-      "price": 1081
+      "price": 1000
     },
     {
       "id": 1289,
       "name": "Permanent Marker",
       "category": "Tools",
-      "price": 791
+      "price": 767
     },
     {
       "id": 1331,
@@ -1518,43 +1518,43 @@
       "id": 1330,
       "name": "Fountain Pen",
       "category": "Tools",
-      "price": 591
+      "price": 603
     },
     {
       "id": 1123,
       "name": "Spy Camera",
       "category": "Tools",
-      "price": 543
+      "price": 542
     },
     {
       "id": 1233,
       "name": "Wheelbarrow",
       "category": "Tools",
-      "price": 512
+      "price": 504
     },
     {
       "id": 159,
       "name": "Bolt Cutters",
       "category": "Tools",
-      "price": 495
+      "price": 494
     },
     {
       "id": 1306,
       "name": "PSU",
       "category": "Tools",
-      "price": 384
+      "price": 410
     },
     {
       "id": 154,
       "name": "Laptop",
       "category": "Tools",
-      "price": 354
+      "price": 355
     },
     {
       "id": 1234,
       "name": "Shovel",
       "category": "Tools",
-      "price": 304
+      "price": 302
     },
     {
       "id": 1084,
@@ -1566,109 +1566,109 @@
       "id": 884,
       "name": "Car Battery",
       "category": "Tools",
-      "price": 277
+      "price": 275
     },
     {
       "id": 61,
       "name": "Personal Computer",
       "category": "Tools",
-      "price": 287
+      "price": 282
     },
     {
       "id": 1300,
       "name": "eCPU",
       "category": "Tools",
-      "price": 273
+      "price": 270
     },
     {
       "id": 1301,
       "name": "CPU",
       "category": "Tools",
-      "price": 252
+      "price": 250
     },
     {
       "id": 1340,
       "name": "Double Cut File",
       "category": "Tools",
-      "price": 264
+      "price": 267
     },
     {
       "id": 906,
       "name": "Handkerchief",
       "category": "Tools",
-      "price": 169
-    },
-    {
-      "id": 1250,
-      "name": "Anchor",
-      "category": "Materials",
-      "price": 249276
+      "price": 167
     },
     {
       "id": 1333,
       "name": "Bonded Latex",
       "category": "Materials",
-      "price": 237552
+      "price": 236284
+    },
+    {
+      "id": 1250,
+      "name": "Anchor",
+      "category": "Materials",
+      "price": 240283
     },
     {
       "id": 1320,
       "name": "Blowtorch",
       "category": "Materials",
-      "price": 221906
+      "price": 221075
     },
     {
       "id": 1347,
       "name": "Certificate Seal",
       "category": "Materials",
-      "price": 169969
-    },
-    {
-      "id": 1461,
-      "name": "Thermite",
-      "category": "Materials",
-      "price": 96021
-    },
-    {
-      "id": 1430,
-      "name": "Shaped Charge",
-      "category": "Materials",
-      "price": 107296
+      "price": 167420
     },
     {
       "id": 1381,
       "name": "ID Badge",
       "category": "Materials",
-      "price": 102083
+      "price": 102931
+    },
+    {
+      "id": 1461,
+      "name": "Thermite",
+      "category": "Materials",
+      "price": 94676
+    },
+    {
+      "id": 1430,
+      "name": "Shaped Charge",
+      "category": "Materials",
+      "price": 104295
     },
     {
       "id": 1463,
       "name": "Fire Extinguisher",
       "category": "Materials",
-      "price": 75419
+      "price": 77635
     },
     {
       "id": 190,
       "name": "C4 Explosive",
       "category": "Materials",
-      "price": 67659
+      "price": 67913
     },
     {
       "id": 1462,
       "name": "Magnesium Shavings",
       "category": "Materials",
-      "price": 56224
+      "price": 55826
     },
     {
       "id": 1264,
       "name": "Potassium Nitrate",
       "category": "Materials",
-      "price": 50822
+      "price": 50755
     },
     {
       "id": 326,
       "name": "Printing Paper",
       "category": "Materials",
-      "price": 53896
+      "price": 53906
     },
     {
       "id": 327,
@@ -1680,7 +1680,7 @@
       "id": 1249,
       "name": "Hydrochloric Acid",
       "category": "Materials",
-      "price": 44260
+      "price": 44082
     },
     {
       "id": 327,
@@ -1689,148 +1689,148 @@
       "price": 41097
     },
     {
-      "id": 1259,
-      "name": "Razor Wire",
-      "category": "Materials",
-      "price": 16182
-    },
-    {
       "id": 1219,
       "name": "Oxygen Tank",
       "category": "Materials",
-      "price": 22800
+      "price": 23246
+    },
+    {
+      "id": 1259,
+      "name": "Razor Wire",
+      "category": "Materials",
+      "price": 14938
     },
     {
       "id": 1212,
       "name": "Bleach",
       "category": "Materials",
-      "price": 22717
+      "price": 22610
     },
     {
       "id": 833,
       "name": "Sand",
       "category": "Materials",
-      "price": 20157
+      "price": 22594
     },
     {
       "id": 328,
       "name": "PVC Cards",
       "category": "Materials",
-      "price": 17177
+      "price": 17235
     },
     {
       "id": 437,
       "name": "Glow Stick",
       "category": "Materials",
-      "price": 17048
-    },
-    {
-      "id": 1459,
-      "name": "Hydrogen Tank",
-      "category": "Materials",
-      "price": 16003
+      "price": 16960
     },
     {
       "id": 1460,
       "name": "Methane Tank",
       "category": "Materials",
-      "price": 15137
+      "price": 16249
+    },
+    {
+      "id": 1459,
+      "name": "Hydrogen Tank",
+      "category": "Materials",
+      "price": 15132
     },
     {
       "id": 883,
       "name": "Bank Statement",
       "category": "Materials",
-      "price": 13297
+      "price": 14277
     },
     {
       "id": 882,
       "name": "Insurance Policy",
       "category": "Materials",
-      "price": 12387
-    },
-    {
-      "id": 1246,
-      "name": "Inkwell",
-      "category": "Materials",
-      "price": 11124
+      "price": 12362
     },
     {
       "id": 1344,
       "name": "Medical Bill",
       "category": "Materials",
-      "price": 11714
+      "price": 12355
     },
     {
-      "id": 1319,
-      "name": "Crushed Enamel",
+      "id": 1246,
+      "name": "Inkwell",
       "category": "Materials",
-      "price": 11247
+      "price": 11140
     },
     {
       "id": 335,
       "name": "Stick of Dynamite",
       "category": "Materials",
-      "price": 10075
+      "price": 10076
     },
     {
-      "id": 1213,
-      "name": "Lye",
+      "id": 1319,
+      "name": "Crushed Enamel",
       "category": "Materials",
-      "price": 8855
+      "price": 9942
     },
     {
       "id": 1457,
       "name": "Kerosene",
       "category": "Materials",
-      "price": 8969
+      "price": 9060
+    },
+    {
+      "id": 1213,
+      "name": "Lye",
+      "category": "Materials",
+      "price": 8848
     },
     {
       "id": 1252,
       "name": "Brass Ingot",
       "category": "Materials",
-      "price": 6894
+      "price": 6898
     },
     {
       "id": 1348,
       "name": "Aluminum Plate",
       "category": "Materials",
-      "price": 6156
+      "price": 6204
     },
     {
       "id": 1270,
       "name": "Paper Towels",
       "category": "Materials",
-      "price": 5760
+      "price": 5812
     },
     {
       "id": 1458,
       "name": "Diesel",
       "category": "Materials",
-      "price": 3648
+      "price": 3820
     },
     {
       "id": 1277,
       "name": "Floor Cleaner",
       "category": "Materials",
-      "price": 2096
+      "price": 1918
     },
     {
       "id": 1361,
       "name": "Dog Treats",
       "category": "Materials",
-      "price": 1345
+      "price": 1334
     },
     {
       "id": 1429,
       "name": "Zip Ties",
       "category": "Materials",
-      "price": 1141
+      "price": 1058
     },
     {
       "id": 907,
       "name": "Candle",
       "category": "Materials",
-      "price": 605
+      "price": 599
     },
     {
       "id": 560,
@@ -1842,79 +1842,73 @@
       "id": 863,
       "name": "Spray Paint : Orange",
       "category": "Materials",
-      "price": 569
+      "price": 570
     },
     {
       "id": 1094,
       "name": "Syringe",
       "category": "Materials",
-      "price": 562
+      "price": 559
     },
     {
       "id": 956,
       "name": "Blank DVDs",
       "category": "Materials",
-      "price": 515
-    },
-    {
-      "id": 172,
-      "name": "Gasoline",
-      "category": "Materials",
-      "price": 532
-    },
-    {
-      "id": 1322,
-      "name": "Cardstock",
-      "category": "Materials",
-      "price": 492
-    },
-    {
-      "id": 1382,
-      "name": "Lanyard",
-      "category": "Materials",
-      "price": 447
-    },
-    {
-      "id": 1217,
-      "name": "Shaving Foam",
-      "category": "Materials",
-      "price": 305
-    },
-    {
-      "id": 1321,
-      "name": "Adhesive Plastic",
-      "category": "Materials",
-      "price": 457
+      "price": 513
     },
     {
       "id": 1201,
       "name": "Rope",
       "category": "Materials",
-      "price": 457
+      "price": 552
     },
     {
-      "id": 859,
-      "name": "Spray Paint : Purple",
+      "id": 172,
+      "name": "Gasoline",
+      "category": "Materials",
+      "price": 531
+    },
+    {
+      "id": 1382,
+      "name": "Lanyard",
+      "category": "Materials",
+      "price": 456
+    },
+    {
+      "id": 1322,
+      "name": "Cardstock",
+      "category": "Materials",
+      "price": 489
+    },
+    {
+      "id": 1217,
+      "name": "Shaving Foam",
       "category": "Materials",
       "price": 301
     },
     {
-      "id": 1096,
-      "name": "Cell Phone",
+      "id": 1321,
+      "name": "Adhesive Plastic",
       "category": "Materials",
-      "price": 233
-    },
-    {
-      "id": 860,
-      "name": "Spray Paint : Blue",
-      "category": "Materials",
-      "price": 266
+      "price": 450
     },
     {
       "id": 1318,
       "name": "Glue",
       "category": "Materials",
-      "price": 307
+      "price": 375
+    },
+    {
+      "id": 1096,
+      "name": "Cell Phone",
+      "category": "Materials",
+      "price": 232
+    },
+    {
+      "id": 859,
+      "name": "Spray Paint : Purple",
+      "category": "Materials",
+      "price": 280
     },
     {
       "id": 858,
@@ -1926,19 +1920,25 @@
       "id": 1143,
       "name": "Disposable Mask",
       "category": "Materials",
-      "price": 283
+      "price": 281
     },
     {
       "id": 861,
       "name": "Spray Paint : Green",
       "category": "Materials",
-      "price": 247
+      "price": 246
+    },
+    {
+      "id": 860,
+      "name": "Spray Paint : Blue",
+      "category": "Materials",
+      "price": 244
     },
     {
       "id": 856,
       "name": "Spray Paint : Black",
       "category": "Materials",
-      "price": 239
+      "price": 237
     },
     {
       "id": 857,
@@ -1950,7 +1950,7 @@
       "id": 1228,
       "name": "Bond Paper",
       "category": "Materials",
-      "price": 227
+      "price": 226
     },
     {
       "id": 1290,
@@ -1968,199 +1968,193 @@
       "id": 812,
       "name": "Psycho Clown Mask",
       "category": "Clothing",
-      "price": 65246
+      "price": 63457
     },
     {
       "id": 931,
       "name": "Bush Hat",
       "category": "Clothing",
-      "price": 37697
+      "price": 37831
     },
     {
       "id": 1022,
       "name": "Golf Socks",
       "category": "Clothing",
-      "price": 32178
-    },
-    {
-      "id": 808,
-      "name": "Ginger Kid Mask",
-      "category": "Clothing",
-      "price": 20951
+      "price": 30749
     },
     {
       "id": 347,
       "name": "Thong",
       "category": "Clothing",
-      "price": 20749
+      "price": 22500
+    },
+    {
+      "id": 808,
+      "name": "Ginger Kid Mask",
+      "category": "Clothing",
+      "price": 21014
     },
     {
       "id": 413,
       "name": "Mountie Hat",
       "category": "Clothing",
-      "price": 17266
+      "price": 17234
     },
     {
       "id": 625,
       "name": "Wetsuit",
       "category": "Clothing",
-      "price": 14695
-    },
-    {
-      "id": 278,
-      "name": "Kabuki Mask",
-      "category": "Clothing",
-      "price": 11998
-    },
-    {
-      "id": 811,
-      "name": "Scarred Man Mask",
-      "category": "Clothing",
-      "price": 11364
-    },
-    {
-      "id": 813,
-      "name": "Nun Mask",
-      "category": "Clothing",
-      "price": 11248
-    },
-    {
-      "id": 947,
-      "name": "Mackintosh",
-      "category": "Clothing",
-      "price": 11231
-    },
-    {
-      "id": 621,
-      "name": "Snorkel",
-      "category": "Clothing",
-      "price": 10984
-    },
-    {
-      "id": 807,
-      "name": "Exotic Gentleman Mask",
-      "category": "Clothing",
-      "price": 10933
+      "price": 14578
     },
     {
       "id": 809,
       "name": "Young Lady Mask",
       "category": "Clothing",
-      "price": 10886
+      "price": 12184
+    },
+    {
+      "id": 278,
+      "name": "Kabuki Mask",
+      "category": "Clothing",
+      "price": 11447
+    },
+    {
+      "id": 813,
+      "name": "Nun Mask",
+      "category": "Clothing",
+      "price": 11397
+    },
+    {
+      "id": 811,
+      "name": "Scarred Man Mask",
+      "category": "Clothing",
+      "price": 11250
+    },
+    {
+      "id": 947,
+      "name": "Mackintosh",
+      "category": "Clothing",
+      "price": 11114
+    },
+    {
+      "id": 621,
+      "name": "Snorkel",
+      "category": "Clothing",
+      "price": 10922
     },
     {
       "id": 806,
       "name": "Old Lady Mask",
       "category": "Clothing",
-      "price": 10742
+      "price": 10716
+    },
+    {
+      "id": 807,
+      "name": "Exotic Gentleman Mask",
+      "category": "Clothing",
+      "price": 10475
     },
     {
       "id": 810,
       "name": "Moustache Man Mask",
       "category": "Clothing",
-      "price": 10050
+      "price": 10001
     },
     {
       "id": 936,
       "name": "Crop Top",
       "category": "Clothing",
-      "price": 8039
+      "price": 7877
     },
     {
       "id": 937,
       "name": "Fisherman Hat",
       "category": "Clothing",
-      "price": 6121
+      "price": 6225
     },
     {
       "id": 622,
       "name": "Flippers",
       "category": "Clothing",
-      "price": 5463
+      "price": 5438
     },
     {
       "id": 940,
       "name": "Raincoat",
       "category": "Clothing",
-      "price": 5364
+      "price": 5171
     },
     {
       "id": 703,
       "name": "Festive Socks",
       "category": "Clothing",
-      "price": 4065
+      "price": 4058
     },
     {
       "id": 624,
       "name": "Bikini",
       "category": "Clothing",
-      "price": 4772
+      "price": 4146
     },
     {
       "id": 623,
       "name": "Speedo",
       "category": "Clothing",
-      "price": 3436
+      "price": 3425
     },
     {
       "id": 626,
       "name": "Diving Gloves",
       "category": "Clothing",
-      "price": 2876
+      "price": 2851
     },
     {
       "id": 412,
       "name": "Sports Shades",
       "category": "Clothing",
-      "price": 2323
+      "price": 2467
     },
     {
       "id": 414,
       "name": "Proda Sunglasses",
       "category": "Clothing",
-      "price": 1558
+      "price": 1553
     },
     {
       "id": 791,
       "name": "Mediocre T-Shirt",
       "category": "Clothing",
-      "price": 972
+      "price": 962
     },
     {
       "id": 935,
       "name": "Cork Hat",
       "category": "Clothing",
-      "price": 335
+      "price": 334
     },
     {
       "id": 949,
       "name": "Skirt",
       "category": "Clothing",
-      "price": 232
+      "price": 229
     },
     {
       "id": 927,
       "name": "Baseball Cap",
       "category": "Clothing",
-      "price": 220
+      "price": 221
     },
     {
       "id": 930,
       "name": "Boob Tube",
       "category": "Clothing",
-      "price": 216
+      "price": 214
     },
     {
       "id": 950,
       "name": "Travel Socks",
       "category": "Clothing",
-      "price": 179
-    },
-    {
-      "id": 952,
-      "name": "Yoga Pants",
-      "category": "Clothing",
-      "price": 166
+      "price": 178
     },
     {
       "id": 404,
@@ -2169,34 +2163,40 @@
       "price": 166
     },
     {
+      "id": 952,
+      "name": "Yoga Pants",
+      "category": "Clothing",
+      "price": 154
+    },
+    {
       "id": 934,
       "name": "Cardigan",
       "category": "Clothing",
       "price": 152
     },
     {
-      "id": 939,
-      "name": "Halterneck",
+      "id": 47,
+      "name": "Trainers",
       "category": "Clothing",
       "price": 146
     },
     {
-      "id": 47,
-      "name": "Trainers",
+      "id": 939,
+      "name": "Halterneck",
       "category": "Clothing",
-      "price": 144
+      "price": 145
     },
     {
       "id": 48,
       "name": "Jacket",
       "category": "Clothing",
-      "price": 135
+      "price": 136
     },
     {
       "id": 946,
       "name": "Puffer Vest",
       "category": "Clothing",
-      "price": 135
+      "price": 134
     },
     {
       "id": 933,
@@ -2205,20 +2205,8 @@
       "price": 131
     },
     {
-      "id": 932,
-      "name": "Camisole",
-      "category": "Clothing",
-      "price": 129
-    },
-    {
       "id": 948,
       "name": "Shorts",
-      "category": "Clothing",
-      "price": 128
-    },
-    {
-      "id": 951,
-      "name": "Turtleneck",
       "category": "Clothing",
       "price": 127
     },
@@ -2226,13 +2214,25 @@
       "id": 928,
       "name": "Bermudas",
       "category": "Clothing",
-      "price": 127
+      "price": 126
+    },
+    {
+      "id": 951,
+      "name": "Turtleneck",
+      "category": "Clothing",
+      "price": 126
     },
     {
       "id": 938,
       "name": "Gym Shorts",
       "category": "Clothing",
-      "price": 125
+      "price": 124
+    },
+    {
+      "id": 929,
+      "name": "Blouse",
+      "category": "Clothing",
+      "price": 123
     },
     {
       "id": 943,
@@ -2241,14 +2241,14 @@
       "price": 122
     },
     {
-      "id": 944,
-      "name": "Polo Shirt",
+      "id": 942,
+      "name": "Pencil Skirt",
       "category": "Clothing",
       "price": 122
     },
     {
-      "id": 929,
-      "name": "Blouse",
+      "id": 944,
+      "name": "Polo Shirt",
       "category": "Clothing",
       "price": 121
     },
@@ -2259,14 +2259,14 @@
       "price": 121
     },
     {
-      "id": 46,
-      "name": "Tank Top",
+      "id": 932,
+      "name": "Camisole",
       "category": "Clothing",
       "price": 121
     },
     {
-      "id": 942,
-      "name": "Pencil Skirt",
+      "id": 46,
+      "name": "Tank Top",
       "category": "Clothing",
       "price": 121
     },
@@ -2274,19 +2274,19 @@
       "id": 941,
       "name": "Pantyhose",
       "category": "Clothing",
-      "price": 116
+      "price": 115
     },
     {
       "id": 54,
       "name": "Diamond Ring",
       "category": "Jewelry",
-      "price": 2234
+      "price": 2244
     },
     {
       "id": 60,
       "name": "Gold Watch",
       "category": "Jewelry",
-      "price": 838
+      "price": 839
     },
     {
       "id": 52,
@@ -2304,25 +2304,25 @@
       "id": 57,
       "name": "Gold Necklace",
       "category": "Jewelry",
-      "price": 270
+      "price": 269
     },
     {
       "id": 55,
       "name": "Pearl Necklace",
       "category": "Jewelry",
-      "price": 294
+      "price": 295
     },
     {
       "id": 58,
       "name": "Plastic Watch",
       "category": "Jewelry",
-      "price": 291
+      "price": 295
     },
     {
       "id": 56,
       "name": "Silver Necklace",
       "category": "Jewelry",
-      "price": 245
+      "price": 244
     },
     {
       "id": 51,
@@ -2334,235 +2334,235 @@
       "id": 59,
       "name": "Stainless Steel Watch",
       "category": "Jewelry",
-      "price": 163
+      "price": 164
     },
     {
       "id": 523,
       "name": "Mercia SLR",
       "category": "Cars",
-      "price": 1503024
+      "price": 1506702
     },
     {
       "id": 90,
       "name": "Edomondo Localé",
       "category": "Cars",
-      "price": 77314
+      "price": 75997
     },
     {
       "id": 81,
       "name": "Bavaria Z8",
       "category": "Cars",
-      "price": 59677
+      "price": 59906
     },
     {
       "id": 514,
       "name": "Sturmfahrt 111",
       "category": "Cars",
-      "price": 59210
+      "price": 58469
     },
     {
       "id": 83,
       "name": "Dart Rampager",
       "category": "Cars",
-      "price": 50738
+      "price": 50369
     },
     {
       "id": 515,
       "name": "Tsubasa Impressor",
       "category": "Cars",
-      "price": 46131
+      "price": 45450
     },
     {
       "id": 94,
       "name": "Trident",
       "category": "Cars",
-      "price": 45254
+      "price": 45148
     },
     {
       "id": 84,
       "name": "Knight Firebrand",
       "category": "Cars",
-      "price": 44133
-    },
-    {
-      "id": 508,
-      "name": "Volt RS",
-      "category": "Cars",
-      "price": 41179
+      "price": 44325
     },
     {
       "id": 82,
       "name": "Chevalier CZ06",
       "category": "Cars",
-      "price": 41014
+      "price": 42000
+    },
+    {
+      "id": 508,
+      "name": "Volt RS",
+      "category": "Cars",
+      "price": 41434
     },
     {
       "id": 79,
       "name": "Echo Quadrato",
       "category": "Cars",
-      "price": 39308
+      "price": 39453
     },
     {
       "id": 80,
       "name": "Bavaria M5",
       "category": "Cars",
-      "price": 31766
+      "price": 31830
     },
     {
       "id": 78,
       "name": "Edomondo NSX",
       "category": "Cars",
-      "price": 30833
+      "price": 30632
     },
     {
       "id": 86,
       "name": "Invader H3",
       "category": "Cars",
-      "price": 26642
+      "price": 25134
     },
     {
       "id": 503,
       "name": "Bavaria X5",
       "category": "Cars",
-      "price": 23358
+      "price": 22821
     },
     {
       "id": 77,
       "name": "Tabata RM2",
       "category": "Cars",
-      "price": 21740
-    },
-    {
-      "id": 509,
-      "name": "Edomondo S2",
-      "category": "Cars",
-      "price": 19249
-    },
-    {
-      "id": 93,
-      "name": "Volt MNG",
-      "category": "Cars",
-      "price": 18175
+      "price": 21547
     },
     {
       "id": 512,
       "name": "Cosmos EX",
       "category": "Cars",
-      "price": 17992
+      "price": 18894
+    },
+    {
+      "id": 509,
+      "name": "Edomondo S2",
+      "category": "Cars",
+      "price": 18230
     },
     {
       "id": 95,
       "name": "Oceania SS",
       "category": "Cars",
-      "price": 17770
+      "price": 17704
+    },
+    {
+      "id": 93,
+      "name": "Volt MNG",
+      "category": "Cars",
+      "price": 17360
     },
     {
       "id": 87,
       "name": "Echo S4",
       "category": "Cars",
-      "price": 15675
+      "price": 15395
     },
     {
       "id": 88,
       "name": "Edomondo IR",
       "category": "Cars",
-      "price": 16420
+      "price": 16161
     },
     {
       "id": 89,
       "name": "Edomondo ACD",
       "category": "Cars",
-      "price": 15418
+      "price": 15514
     },
     {
       "id": 91,
       "name": "Verpestung Insecta",
       "category": "Cars",
-      "price": 13403
+      "price": 13239
     },
     {
       "id": 504,
       "name": "Coche Basurero",
       "category": "Cars",
-      "price": 11224
+      "price": 10317
     },
     {
       "id": 502,
       "name": "Alpha Milano 156",
       "category": "Cars",
-      "price": 9645
+      "price": 9100
     },
     {
       "id": 499,
       "name": "Papani Colé",
       "category": "Cars",
-      "price": 9347
-    },
-    {
-      "id": 92,
-      "name": "Chevalier CVR",
-      "category": "Cars",
-      "price": 7985
+      "price": 9634
     },
     {
       "id": 495,
       "name": "Nano Pioneer",
       "category": "Cars",
-      "price": 7674
+      "price": 7828
     },
     {
       "id": 506,
       "name": "Verpestung Sport",
       "category": "Cars",
-      "price": 7674
+      "price": 7900
+    },
+    {
+      "id": 92,
+      "name": "Chevalier CVR",
+      "category": "Cars",
+      "price": 7231
     },
     {
       "id": 500,
       "name": "Bedford Racer",
       "category": "Cars",
-      "price": 6484
+      "price": 6458
     },
     {
       "id": 498,
       "name": "Çagoutte 10-6",
       "category": "Cars",
-      "price": 5795
+      "price": 5744
     },
     {
       "id": 1500,
       "name": "Quartzite Point",
       "category": "Artifacts",
-      "price": 154415
+      "price": 153440
     },
     {
       "id": 1504,
       "name": "Quartz Point",
       "category": "Artifacts",
-      "price": 135004
+      "price": 133474
     },
     {
       "id": 1499,
       "name": "Obsidian Point",
       "category": "Artifacts",
-      "price": 118102
+      "price": 119094
     },
     {
       "id": 1503,
       "name": "Chalcedony Point",
       "category": "Artifacts",
-      "price": 117899
+      "price": 117975
     },
     {
       "id": 1501,
       "name": "Chert Point",
       "category": "Artifacts",
-      "price": 117358
+      "price": 117165
     },
     {
       "id": 1502,
       "name": "Basalt Point",
       "category": "Artifacts",
-      "price": 112122
+      "price": 111504
     },
     {
       "id": 595,
@@ -2574,7 +2574,7 @@
       "id": 293,
       "name": "Japanese/English Dictionary",
       "category": "Miscellaneous",
-      "price": 9944998
+      "price": 10851665
     },
     {
       "id": 534,
@@ -2586,7 +2586,7 @@
       "id": 191,
       "name": "Memory Locket",
       "category": "Miscellaneous",
-      "price": 6232766
+      "price": 6195769
     },
     {
       "id": 540,
@@ -2604,7 +2604,7 @@
       "id": 1206,
       "name": "Truck Nuts",
       "category": "Miscellaneous",
-      "price": 1102875
+      "price": 1096146
     },
     {
       "id": 536,
@@ -2616,421 +2616,427 @@
       "id": 701,
       "name": "Eggnog",
       "category": "Miscellaneous",
-      "price": 803850
+      "price": 802500
     },
     {
       "id": 305,
       "name": "Mistletoe",
       "category": "Miscellaneous",
-      "price": 661569
+      "price": 618373
     },
     {
       "id": 1247,
       "name": "Bull Semen",
       "category": "Miscellaneous",
-      "price": 571185
+      "price": 560682
     },
     {
       "id": 1343,
       "name": "Passport",
       "category": "Miscellaneous",
-      "price": 501292
+      "price": 502348
     },
     {
       "id": 308,
       "name": "Christmas Gnome",
       "category": "Miscellaneous",
-      "price": 516025
+      "price": 493800
     },
     {
       "id": 1225,
       "name": "Bowling Trophy",
       "category": "Miscellaneous",
-      "price": 454756
+      "price": 471333
     },
     {
       "id": 1495,
       "name": "Ambergris Lump",
       "category": "Miscellaneous",
-      "price": 365141
+      "price": 364636
     },
     {
       "id": 1245,
       "name": "Chandelier",
       "category": "Miscellaneous",
-      "price": 270032
+      "price": 270600
     },
     {
       "id": 307,
       "name": "Snowman",
       "category": "Miscellaneous",
-      "price": 204562
+      "price": 194614
     },
     {
       "id": 1497,
       "name": "Uncut Diamonds",
       "category": "Miscellaneous",
-      "price": 203993
+      "price": 203995
     },
     {
       "id": 900,
       "name": "Lucky Quarter",
       "category": "Miscellaneous",
-      "price": 202300
+      "price": 200571
     },
     {
       "id": 1494,
       "name": "Pangolin Scales",
       "category": "Miscellaneous",
-      "price": 173878
-    },
-    {
-      "id": 1339,
-      "name": "Bank Check",
-      "category": "Miscellaneous",
-      "price": 152695
+      "price": 173578
     },
     {
       "id": 639,
       "name": "Golden Candy Cane",
       "category": "Miscellaneous",
-      "price": 141870
+      "price": 153105
+    },
+    {
+      "id": 1339,
+      "name": "Bank Check",
+      "category": "Miscellaneous",
+      "price": 152068
     },
     {
       "id": 637,
       "name": "Christmas Express",
       "category": "Miscellaneous",
-      "price": 137122
-    },
-    {
-      "id": 1146,
-      "name": "Tangerine",
-      "category": "Miscellaneous",
-      "price": 128845
+      "price": 134708
     },
     {
       "id": 1496,
       "name": "Natural Pearls",
       "category": "Miscellaneous",
-      "price": 126960
+      "price": 126942
     },
     {
-      "id": 602,
-      "name": "Gingerbread Man",
+      "id": 1146,
+      "name": "Tangerine",
       "category": "Miscellaneous",
-      "price": 117576
+      "price": 121461
     },
     {
       "id": 309,
       "name": "Gingerbread House",
       "category": "Miscellaneous",
-      "price": 114748
-    },
-    {
-      "id": 1342,
-      "name": "Travel Visa",
-      "category": "Miscellaneous",
-      "price": 103418
-    },
-    {
-      "id": 1486,
-      "name": "Turtle Shell",
-      "category": "Miscellaneous",
-      "price": 83139
-    },
-    {
-      "id": 899,
-      "name": "Silver Bead",
-      "category": "Miscellaneous",
-      "price": 80905
-    },
-    {
-      "id": 1349,
-      "name": "License Plate",
-      "category": "Miscellaneous",
-      "price": 80277
-    },
-    {
-      "id": 1243,
-      "name": "Persian Rug",
-      "category": "Miscellaneous",
-      "price": 79472
-    },
-    {
-      "id": 1482,
-      "name": "Bearer Bond",
-      "category": "Miscellaneous",
-      "price": 78344
+      "price": 118179
     },
     {
       "id": 306,
       "name": "Mini Sleigh",
       "category": "Miscellaneous",
-      "price": 75942
+      "price": 115916
+    },
+    {
+      "id": 602,
+      "name": "Gingerbread Man",
+      "category": "Miscellaneous",
+      "price": 99664
+    },
+    {
+      "id": 1342,
+      "name": "Travel Visa",
+      "category": "Miscellaneous",
+      "price": 102779
+    },
+    {
+      "id": 1486,
+      "name": "Turtle Shell",
+      "category": "Miscellaneous",
+      "price": 83063
+    },
+    {
+      "id": 899,
+      "name": "Silver Bead",
+      "category": "Miscellaneous",
+      "price": 81577
+    },
+    {
+      "id": 1349,
+      "name": "License Plate",
+      "category": "Miscellaneous",
+      "price": 80282
+    },
+    {
+      "id": 1243,
+      "name": "Persian Rug",
+      "category": "Miscellaneous",
+      "price": 79191
     },
     {
       "id": 864,
       "name": "Salt Shaker",
       "category": "Miscellaneous",
-      "price": 64650
+      "price": 64899
     },
     {
       "id": 700,
       "name": "Christmas Angel",
       "category": "Miscellaneous",
-      "price": 69692
+      "price": 71942
+    },
+    {
+      "id": 1482,
+      "name": "Bearer Bond",
+      "category": "Miscellaneous",
+      "price": 67825
     },
     {
       "id": 702,
       "name": "Sprig of Holly",
       "category": "Miscellaneous",
-      "price": 56625
+      "price": 58856
     },
     {
       "id": 1251,
       "name": "Boat Engine",
       "category": "Miscellaneous",
-      "price": 64050
+      "price": 64058
     },
     {
       "id": 1345,
       "name": "Prescription",
       "category": "Miscellaneous",
-      "price": 63384
-    },
-    {
-      "id": 358,
-      "name": "Raw Ivory",
-      "category": "Miscellaneous",
-      "price": 59210
+      "price": 63456
     },
     {
       "id": 1492,
       "name": "Counterfeit Manga",
       "category": "Miscellaneous",
-      "price": 59197
+      "price": 59286
     },
     {
       "id": 1498,
       "name": "Tiger Bone Powder",
       "category": "Miscellaneous",
-      "price": 59099
+      "price": 59142
     },
     {
-      "id": 1260,
-      "name": "Stamp Collection",
+      "id": 358,
+      "name": "Raw Ivory",
       "category": "Miscellaneous",
-      "price": 57797
+      "price": 59106
     },
     {
       "id": 1485,
       "name": "Shark Fin",
       "category": "Miscellaneous",
-      "price": 55811
+      "price": 55787
+    },
+    {
+      "id": 1260,
+      "name": "Stamp Collection",
+      "category": "Miscellaneous",
+      "price": 54906
     },
     {
       "id": 1336,
       "name": "Birth Certificate",
       "category": "Miscellaneous",
-      "price": 52101
-    },
-    {
-      "id": 1337,
-      "name": "Diploma",
-      "category": "Miscellaneous",
-      "price": 46618
+      "price": 52000
     },
     {
       "id": 1199,
       "name": "Casket",
       "category": "Miscellaneous",
-      "price": 45986
+      "price": 45474
     },
     {
-      "id": 636,
-      "name": "Cinnamon Decoration",
+      "id": 1337,
+      "name": "Diploma",
       "category": "Miscellaneous",
-      "price": 34300
+      "price": 43915
     },
     {
       "id": 1209,
       "name": "Hunting Trophy",
       "category": "Miscellaneous",
-      "price": 40428
+      "price": 39969
     },
     {
       "id": 559,
       "name": "Polar Bear Toy",
       "category": "Miscellaneous",
-      "price": 38298
-    },
-    {
-      "id": 558,
-      "name": "Santa's Snot",
-      "category": "Miscellaneous",
-      "price": 25180
-    },
-    {
-      "id": 1493,
-      "name": "Whale Meat",
-      "category": "Miscellaneous",
-      "price": 33952
+      "price": 38232
     },
     {
       "id": 1148,
       "name": "Broken Bauble",
       "category": "Miscellaneous",
-      "price": 33785
+      "price": 33925
+    },
+    {
+      "id": 1493,
+      "name": "Whale Meat",
+      "category": "Miscellaneous",
+      "price": 33899
     },
     {
       "id": 415,
       "name": "Ship in a Bottle",
       "category": "Miscellaneous",
-      "price": 27636
+      "price": 27593
+    },
+    {
+      "id": 558,
+      "name": "Santa's Snot",
+      "category": "Miscellaneous",
+      "price": 21143
     },
     {
       "id": 279,
       "name": "Maneki Neko",
       "category": "Miscellaneous",
-      "price": 26246
+      "price": 26245
     },
     {
       "id": 1484,
       "name": "Bear Gall",
       "category": "Miscellaneous",
-      "price": 26097
+      "price": 26049
     },
     {
       "id": 406,
       "name": "Afro Comb",
       "category": "Miscellaneous",
-      "price": 22353
+      "price": 22265
     },
     {
       "id": 898,
       "name": "Silver Coin",
       "category": "Miscellaneous",
-      "price": 21309
+      "price": 21226
     },
     {
       "id": 1091,
       "name": "Handcuffs",
       "category": "Miscellaneous",
-      "price": 23514
+      "price": 23775
     },
     {
       "id": 1489,
       "name": "Ephedrine Powder",
       "category": "Miscellaneous",
-      "price": 20155
+      "price": 20142
     },
     {
       "id": 603,
       "name": "Golden Wreath",
       "category": "Miscellaneous",
-      "price": 18746
-    },
-    {
-      "id": 1200,
-      "name": "Nitrous Tank",
-      "category": "Miscellaneous",
-      "price": 17473
+      "price": 18802
     },
     {
       "id": 429,
       "name": "Chopsticks",
       "category": "Miscellaneous",
-      "price": 14917
+      "price": 14975
+    },
+    {
+      "id": 1200,
+      "name": "Nitrous Tank",
+      "category": "Miscellaneous",
+      "price": 17424
+    },
+    {
+      "id": 636,
+      "name": "Cinnamon Decoration",
+      "category": "Miscellaneous",
+      "price": 16898
     },
     {
       "id": 535,
       "name": "Electronic Pumpkin",
       "category": "Miscellaneous",
-      "price": 17980
+      "price": 16547
     },
     {
       "id": 1491,
       "name": "Ergotamine Ampoule",
       "category": "Miscellaneous",
-      "price": 14992
+      "price": 14940
     },
     {
       "id": 601,
       "name": "Christmas Lights",
       "category": "Miscellaneous",
-      "price": 11559
+      "price": 11731
     },
     {
       "id": 407,
       "name": "Compass",
       "category": "Miscellaneous",
-      "price": 12831
-    },
-    {
-      "id": 408,
-      "name": "Sextant",
-      "category": "Miscellaneous",
-      "price": 12925
-    },
-    {
-      "id": 1198,
-      "name": "Sticky Notes",
-      "category": "Miscellaneous",
-      "price": 12064
-    },
-    {
-      "id": 1490,
-      "name": "Safrole Oil",
-      "category": "Miscellaneous",
-      "price": 11204
-    },
-    {
-      "id": 1263,
-      "name": "Phosphorus",
-      "category": "Miscellaneous",
-      "price": 11998
+      "price": 12737
     },
     {
       "id": 411,
       "name": "Model Space Ship",
       "category": "Miscellaneous",
-      "price": 11196
+      "price": 11798
+    },
+    {
+      "id": 408,
+      "name": "Sextant",
+      "category": "Miscellaneous",
+      "price": 12497
+    },
+    {
+      "id": 1198,
+      "name": "Sticky Notes",
+      "category": "Miscellaneous",
+      "price": 12046
+    },
+    {
+      "id": 1490,
+      "name": "Safrole Oil",
+      "category": "Miscellaneous",
+      "price": 11183
+    },
+    {
+      "id": 1263,
+      "name": "Phosphorus",
+      "category": "Miscellaneous",
+      "price": 11974
     },
     {
       "id": 1282,
       "name": "Gold Tooth",
       "category": "Miscellaneous",
-      "price": 11628
-    },
-    {
-      "id": 1236,
-      "name": "Crockpot",
-      "category": "Miscellaneous",
-      "price": 11341
-    },
-    {
-      "id": 410,
-      "name": "Fire Hydrant",
-      "category": "Miscellaneous",
-      "price": 10458
+      "price": 11543
     },
     {
       "id": 1221,
       "name": "Jigsaw Puzzle",
       "category": "Miscellaneous",
-      "price": 8919
+      "price": 9053
+    },
+    {
+      "id": 1236,
+      "name": "Crockpot",
+      "category": "Miscellaneous",
+      "price": 11311
+    },
+    {
+      "id": 410,
+      "name": "Fire Hydrant",
+      "category": "Miscellaneous",
+      "price": 10336
     },
     {
       "id": 427,
       "name": "Sumo Doll",
       "category": "Miscellaneous",
-      "price": 10346
+      "price": 10360
     },
     {
       "id": 1279,
       "name": "Massage Table",
       "category": "Miscellaneous",
-      "price": 8171
+      "price": 8134
+    },
+    {
+      "id": 1241,
+      "name": "Croquet Set",
+      "category": "Miscellaneous",
+      "price": 8918
     },
     {
       "id": 275,
@@ -3045,298 +3051,292 @@
       "price": 7527
     },
     {
-      "id": 1285,
-      "name": "Paperclips",
-      "category": "Miscellaneous",
-      "price": 8341
-    },
-    {
       "id": 1210,
       "name": "Hoe",
       "category": "Miscellaneous",
-      "price": 8330
+      "price": 8245
+    },
+    {
+      "id": 1285,
+      "name": "Paperclips",
+      "category": "Miscellaneous",
+      "price": 8209
     },
     {
       "id": 1278,
       "name": "Model Spine",
       "category": "Miscellaneous",
-      "price": 6748
+      "price": 6682
     },
     {
       "id": 1237,
       "name": "Plunger",
       "category": "Miscellaneous",
-      "price": 7771
-    },
-    {
-      "id": 1241,
-      "name": "Croquet Set",
-      "category": "Miscellaneous",
-      "price": 6936
-    },
-    {
-      "id": 1238,
-      "name": "Silver Cutlery Set",
-      "category": "Miscellaneous",
-      "price": 5695
+      "price": 7752
     },
     {
       "id": 788,
       "name": "Certificate of Awesome",
       "category": "Miscellaneous",
-      "price": 5665
+      "price": 5681
+    },
+    {
+      "id": 1238,
+      "name": "Silver Cutlery Set",
+      "category": "Miscellaneous",
+      "price": 5413
     },
     {
       "id": 1483,
       "name": "Insulin",
       "category": "Miscellaneous",
-      "price": 5412
-    },
-    {
-      "id": 1292,
-      "name": "Bone",
-      "category": "Miscellaneous",
-      "price": 5346
+      "price": 5407
     },
     {
       "id": 1093,
       "name": "Hit Contract",
       "category": "Miscellaneous",
-      "price": 5171
+      "price": 5190
     },
     {
       "id": 557,
       "name": "Advent Calendar",
       "category": "Miscellaneous",
-      "price": 4858
+      "price": 5140
     },
     {
-      "id": 1211,
-      "name": "Fishing Rod",
+      "id": 1292,
+      "name": "Bone",
       "category": "Miscellaneous",
-      "price": 4756
+      "price": 5097
     },
     {
       "id": 1232,
       "name": "Garden Gnome",
       "category": "Miscellaneous",
-      "price": 4688
+      "price": 4783
+    },
+    {
+      "id": 1211,
+      "name": "Fishing Rod",
+      "category": "Miscellaneous",
+      "price": 4746
     },
     {
       "id": 418,
       "name": "Tailor's Dummy",
       "category": "Miscellaneous",
-      "price": 4494
+      "price": 4478
     },
     {
       "id": 878,
       "name": "Smelly Cheese",
       "category": "Miscellaneous",
-      "price": 4282
+      "price": 4265
     },
     {
       "id": 409,
       "name": "Yucca Plant",
       "category": "Miscellaneous",
-      "price": 4238
+      "price": 4231
     },
     {
       "id": 280,
       "name": "Elephant Statue",
       "category": "Miscellaneous",
-      "price": 3948
+      "price": 3921
     },
     {
       "id": 1253,
       "name": "Tractor Part",
       "category": "Miscellaneous",
-      "price": 3853
+      "price": 3841
     },
     {
       "id": 1335,
       "name": "Parking Permit",
       "category": "Miscellaneous",
-      "price": 3781
+      "price": 3769
     },
     {
       "id": 1262,
       "name": "Urea",
       "category": "Miscellaneous",
-      "price": 3452
+      "price": 3433
     },
     {
       "id": 881,
       "name": "Spoiled Fish",
       "category": "Miscellaneous",
-      "price": 3327
+      "price": 3205
     },
     {
       "id": 1265,
       "name": "Grain",
       "category": "Miscellaneous",
-      "price": 3013
+      "price": 3003
     },
     {
       "id": 1286,
       "name": "Stapler",
       "category": "Miscellaneous",
-      "price": 3481
+      "price": 3462
     },
     {
       "id": 1086,
       "name": "Driver's License",
       "category": "Miscellaneous",
-      "price": 2911
+      "price": 2920
     },
     {
       "id": 1227,
       "name": "Igniter Cord",
       "category": "Miscellaneous",
-      "price": 2791
+      "price": 2783
     },
     {
       "id": 620,
       "name": "Nodding Turtle",
       "category": "Miscellaneous",
-      "price": 2634
+      "price": 2614
     },
     {
       "id": 436,
       "name": "Snowboard",
       "category": "Miscellaneous",
-      "price": 2377
+      "price": 2371
     },
     {
       "id": 1256,
       "name": "Machine Part",
       "category": "Miscellaneous",
-      "price": 2336
-    },
-    {
-      "id": 1281,
-      "name": "Dentures",
-      "category": "Miscellaneous",
-      "price": 2203
-    },
-    {
-      "id": 1287,
-      "name": "Hole Punch",
-      "category": "Miscellaneous",
-      "price": 2179
+      "price": 2350
     },
     {
       "id": 1267,
       "name": "Detergent",
       "category": "Miscellaneous",
-      "price": 2158
+      "price": 2140
+    },
+    {
+      "id": 1281,
+      "name": "Dentures",
+      "category": "Miscellaneous",
+      "price": 2122
+    },
+    {
+      "id": 1287,
+      "name": "Hole Punch",
+      "category": "Miscellaneous",
+      "price": 2089
     },
     {
       "id": 434,
       "name": "Yakitori Lantern",
       "category": "Miscellaneous",
-      "price": 2105
+      "price": 2089
     },
     {
       "id": 879,
       "name": "Sour Milk",
       "category": "Miscellaneous",
-      "price": 2051
+      "price": 2059
     },
     {
       "id": 1283,
       "name": "Bleaching Tray",
       "category": "Miscellaneous",
-      "price": 2032
+      "price": 1961
     },
     {
       "id": 789,
       "name": "Certificate of Lame",
       "category": "Miscellaneous",
-      "price": 1966
+      "price": 1955
     },
     {
       "id": 1226,
       "name": "Fertilizer",
       "category": "Miscellaneous",
-      "price": 1929
+      "price": 1916
     },
     {
       "id": 1341,
       "name": "Concert Ticket",
       "category": "Miscellaneous",
-      "price": 1878
+      "price": 1868
     },
     {
       "id": 1095,
       "name": "Spoon",
       "category": "Miscellaneous",
-      "price": 1829
+      "price": 1819
     },
     {
       "id": 262,
       "name": "Hockey Stick",
       "category": "Miscellaneous",
-      "price": 1805
+      "price": 1803
     },
     {
       "id": 1276,
       "name": "Broom",
       "category": "Miscellaneous",
-      "price": 1803
+      "price": 1799
     },
     {
       "id": 1275,
       "name": "Mop",
       "category": "Miscellaneous",
-      "price": 1765
-    },
-    {
-      "id": 880,
-      "name": "Stale Bread",
-      "category": "Miscellaneous",
-      "price": 1751
+      "price": 1748
     },
     {
       "id": 1092,
       "name": "Lubricant",
       "category": "Miscellaneous",
-      "price": 1644
+      "price": 1651
+    },
+    {
+      "id": 880,
+      "name": "Stale Bread",
+      "category": "Miscellaneous",
+      "price": 1629
     },
     {
       "id": 1248,
       "name": "Ammonia",
       "category": "Miscellaneous",
-      "price": 1595
+      "price": 1581
     },
     {
       "id": 259,
       "name": "Mayan Statue",
       "category": "Miscellaneous",
-      "price": 1587
+      "price": 1577
     },
     {
       "id": 868,
       "name": "Turkey Baster",
       "category": "Miscellaneous",
-      "price": 1571
+      "price": 1567
     },
     {
       "id": 265,
       "name": "Pele Charm",
       "category": "Miscellaneous",
-      "price": 1523
+      "price": 1512
     },
     {
       "id": 1272,
       "name": "Toothbrush",
       "category": "Miscellaneous",
-      "price": 1751
+      "price": 1749
     },
     {
       "id": 1189,
       "name": "Formaldehyde",
       "category": "Miscellaneous",
-      "price": 1483
+      "price": 1474
     },
     {
       "id": 433,
@@ -3348,53 +3348,53 @@
       "id": 619,
       "name": "Steel Drum",
       "category": "Miscellaneous",
-      "price": 1165
-    },
-    {
-      "id": 1240,
-      "name": "Perfume",
-      "category": "Miscellaneous",
-      "price": 1107
+      "price": 1150
     },
     {
       "id": 896,
       "name": "Subway Pass",
       "category": "Miscellaneous",
-      "price": 1102
+      "price": 1106
+    },
+    {
+      "id": 876,
+      "name": "Festering Chicken",
+      "category": "Miscellaneous",
+      "price": 1105
+    },
+    {
+      "id": 1240,
+      "name": "Perfume",
+      "category": "Miscellaneous",
+      "price": 1101
     },
     {
       "id": 1220,
       "name": "Massage Oil",
       "category": "Miscellaneous",
-      "price": 1057
+      "price": 1046
     },
     {
       "id": 1273,
       "name": "Toothpaste",
       "category": "Miscellaneous",
-      "price": 991
+      "price": 989
     },
     {
       "id": 1242,
       "name": "Horseshoe",
       "category": "Miscellaneous",
-      "price": 940
+      "price": 929
     },
     {
       "id": 270,
       "name": "Soccer Ball",
       "category": "Miscellaneous",
-      "price": 935
+      "price": 928
     },
     {
       "id": 416,
       "name": "Paper Weight",
-      "category": "Miscellaneous",
-      "price": 905
-    },
-    {
-      "id": 876,
-      "name": "Festering Chicken",
       "category": "Miscellaneous",
       "price": 878
     },
@@ -3402,29 +3402,23 @@
       "id": 1216,
       "name": "Clippers",
       "category": "Miscellaneous",
-      "price": 832
+      "price": 826
     },
     {
       "id": 431,
       "name": "Dart Board",
       "category": "Miscellaneous",
-      "price": 670
+      "price": 668
+    },
+    {
+      "id": 1087,
+      "name": "Tampon",
+      "category": "Miscellaneous",
+      "price": 619
     },
     {
       "id": 1222,
       "name": "Picture Frame",
-      "category": "Miscellaneous",
-      "price": 628
-    },
-    {
-      "id": 1269,
-      "name": "Cough Syrup",
-      "category": "Miscellaneous",
-      "price": 613
-    },
-    {
-      "id": 1208,
-      "name": "Beach Ball",
       "category": "Miscellaneous",
       "price": 611
     },
@@ -3432,31 +3426,37 @@
       "id": 905,
       "name": "Car Keys",
       "category": "Miscellaneous",
-      "price": 609
+      "price": 611
     },
     {
-      "id": 1087,
-      "name": "Tampon",
+      "id": 1269,
+      "name": "Cough Syrup",
       "category": "Miscellaneous",
-      "price": 607
+      "price": 610
+    },
+    {
+      "id": 1208,
+      "name": "Beach Ball",
+      "category": "Miscellaneous",
+      "price": 606
     },
     {
       "id": 1089,
       "name": "Family Photo",
       "category": "Miscellaneous",
-      "price": 600
-    },
-    {
-      "id": 62,
-      "name": "Microwave",
-      "category": "Miscellaneous",
-      "price": 529
+      "price": 598
     },
     {
       "id": 897,
       "name": "Bottle Cap",
       "category": "Miscellaneous",
-      "price": 497
+      "price": 538
+    },
+    {
+      "id": 62,
+      "name": "Microwave",
+      "category": "Miscellaneous",
+      "price": 532
     },
     {
       "id": 889,
@@ -3474,31 +3474,37 @@
       "id": 1280,
       "name": "Scalp Massager",
       "category": "Miscellaneous",
-      "price": 424
+      "price": 422
     },
     {
       "id": 64,
       "name": "Pack of Cuban Cigars",
       "category": "Miscellaneous",
-      "price": 412
+      "price": 410
     },
     {
       "id": 1254,
       "name": "Tire",
       "category": "Miscellaneous",
-      "price": 375
+      "price": 376
     },
     {
       "id": 40,
       "name": "Pack of Music CDs",
       "category": "Miscellaneous",
-      "price": 357
+      "price": 362
     },
     {
       "id": 1268,
       "name": "Vitamins",
       "category": "Miscellaneous",
-      "price": 262
+      "price": 260
+    },
+    {
+      "id": 182,
+      "name": "Soap on a Rope",
+      "category": "Miscellaneous",
+      "price": 247
     },
     {
       "id": 875,
@@ -3507,16 +3513,10 @@
       "price": 244
     },
     {
-      "id": 182,
-      "name": "Soap on a Rope",
-      "category": "Miscellaneous",
-      "price": 242
-    },
-    {
       "id": 1266,
       "name": "Shampoo",
       "category": "Miscellaneous",
-      "price": 182
+      "price": 181
     },
     {
       "id": 1274,
@@ -3528,7 +3528,7 @@
       "id": 895,
       "name": "Phone Card",
       "category": "Miscellaneous",
-      "price": 178
+      "price": 176
     },
     {
       "id": 887,
@@ -3546,19 +3546,19 @@
       "id": 1288,
       "name": "Notepad",
       "category": "Miscellaneous",
-      "price": 153
+      "price": 155
     },
     {
       "id": 1214,
       "name": "Towel",
       "category": "Miscellaneous",
-      "price": 151
+      "price": 154
     },
     {
       "id": 892,
       "name": "Mix CD",
       "category": "Miscellaneous",
-      "price": 137
+      "price": 138
     },
     {
       "id": 885,
@@ -3570,37 +3570,37 @@
       "id": 890,
       "name": "Headphones",
       "category": "Miscellaneous",
-      "price": 133
+      "price": 134
     },
     {
       "id": 45,
       "name": "Hard Drive",
       "category": "Miscellaneous",
-      "price": 133
+      "price": 132
     },
     {
       "id": 41,
       "name": "DVD Player",
       "category": "Miscellaneous",
-      "price": 132
-    },
-    {
-      "id": 417,
-      "name": "RS232 Cable",
-      "category": "Miscellaneous",
-      "price": 127
-    },
-    {
-      "id": 1088,
-      "name": "Receipt",
-      "category": "Miscellaneous",
-      "price": 124
+      "price": 131
     },
     {
       "id": 894,
       "name": "Cosmetics Case",
       "category": "Miscellaneous",
-      "price": 124
+      "price": 128
+    },
+    {
+      "id": 417,
+      "name": "RS232 Cable",
+      "category": "Miscellaneous",
+      "price": 126
+    },
+    {
+      "id": 1088,
+      "name": "Receipt",
+      "category": "Miscellaneous",
+      "price": 125
     },
     {
       "id": 888,
@@ -3612,307 +3612,307 @@
       "id": 1085,
       "name": "Lipstick",
       "category": "Miscellaneous",
-      "price": 122
+      "price": 120
     },
     {
       "id": 63,
       "name": "Minigun",
       "category": "Primary",
-      "price": 943051
+      "price": 931104
     },
     {
       "id": 31,
       "name": "M249 SAW",
       "category": "Primary",
-      "price": 470380
+      "price": 470373
     },
     {
       "id": 108,
       "name": "9mm Uzi",
       "category": "Primary",
-      "price": 423329
+      "price": 0
     },
     {
       "id": 612,
       "name": "Tavor TAR-21",
       "category": "Primary",
-      "price": 254331
+      "price": 253520
     },
     {
       "id": 219,
       "name": "Enfield SA-80",
       "category": "Primary",
-      "price": 174296
+      "price": 184129
     },
     {
       "id": 30,
       "name": "Steyr AUG",
       "category": "Primary",
-      "price": 52504
+      "price": 52551
     },
     {
       "id": 225,
       "name": "Mag 7",
       "category": "Primary",
-      "price": 39115
+      "price": 39556
     },
     {
       "id": 232,
       "name": "SIG 550",
       "category": "Primary",
-      "price": 38574
+      "price": 38584
     },
     {
       "id": 488,
       "name": "MP 40",
       "category": "Primary",
-      "price": 38031
+      "price": 35079
     },
     {
       "id": 29,
       "name": "M16 A2 Rifle",
       "category": "Primary",
-      "price": 25037
+      "price": 24946
     },
     {
       "id": 231,
       "name": "Heckler & Koch SL8",
       "category": "Primary",
-      "price": 24158
+      "price": 24119
     },
     {
       "id": 28,
       "name": "Benelli M4 Super",
       "category": "Primary",
-      "price": 14391
+      "price": 14350
     },
     {
       "id": 484,
       "name": "AK74U",
       "category": "Primary",
-      "price": 13598
+      "price": 12984
     },
     {
       "id": 27,
       "name": "M4A1 Colt Carbine",
       "category": "Primary",
-      "price": 7922
+      "price": 7927
     },
     {
       "id": 241,
       "name": "Bushmaster Carbon 15",
       "category": "Primary",
-      "price": 6948
+      "price": 6924
     },
     {
       "id": 26,
       "name": "AK-47",
       "category": "Primary",
-      "price": 6741
+      "price": 0
     },
     {
       "id": 174,
       "name": "XM8 Rifle",
       "category": "Primary",
-      "price": 5881
-    },
-    {
-      "id": 228,
-      "name": "Vektor CR-21",
-      "category": "Primary",
-      "price": 5072
+      "price": 5900
     },
     {
       "id": 252,
       "name": "Ithaca 37",
       "category": "Primary",
-      "price": 4910
+      "price": 4870
+    },
+    {
+      "id": 228,
+      "name": "Vektor CR-21",
+      "category": "Primary",
+      "price": 4848
     },
     {
       "id": 25,
       "name": "P90",
       "category": "Primary",
-      "price": 4026
+      "price": 4015
     },
     {
       "id": 249,
       "name": "SKS Carbine",
       "category": "Primary",
-      "price": 3532
+      "price": 3538
     },
     {
       "id": 24,
       "name": "MP5 Navy",
       "category": "Primary",
-      "price": 2542
+      "price": 2529
     },
     {
       "id": 23,
       "name": "Benelli M1 Tactical",
       "category": "Primary",
-      "price": 1839
+      "price": 1825
     },
     {
       "id": 22,
       "name": "Sawed-Off Shotgun",
       "category": "Primary",
-      "price": 712
+      "price": 714
     },
     {
       "id": 487,
       "name": "Thompson",
       "category": "Primary",
-      "price": 334
+      "price": 422
     },
     {
       "id": 17,
       "name": "Beretta 92FS",
       "category": "Secondary",
-      "price": 197662
+      "price": 190000
     },
     {
       "id": 613,
       "name": "Harpoon",
       "category": "Secondary",
-      "price": 139336
+      "price": 139489
     },
     {
       "id": 254,
       "name": "S&W M29",
       "category": "Secondary",
-      "price": 74486
+      "price": 99290
     },
     {
       "id": 248,
       "name": "Qsz-92",
       "category": "Secondary",
-      "price": 48985
+      "price": 48905
     },
     {
       "id": 177,
       "name": "Cobra Derringer",
       "category": "Secondary",
-      "price": 37474
+      "price": 38282
     },
     {
       "id": 233,
       "name": "BT MP9",
       "category": "Secondary",
-      "price": 33811
+      "price": 32455
     },
     {
       "id": 20,
       "name": "Desert Eagle",
       "category": "Secondary",
-      "price": 24649
-    },
-    {
-      "id": 490,
-      "name": "Blunderbuss",
-      "category": "Secondary",
-      "price": 11200
+      "price": 24622
     },
     {
       "id": 19,
       "name": "Magnum",
       "category": "Secondary",
-      "price": 10173
+      "price": 10151
     },
     {
       "id": 18,
       "name": "Fiveseven",
       "category": "Secondary",
-      "price": 4608
+      "price": 4595
     },
     {
       "id": 175,
       "name": "Taser",
       "category": "Secondary",
-      "price": 1678
+      "price": 2378
     },
     {
       "id": 244,
       "name": "Blowgun",
       "category": "Secondary",
-      "price": 1409
+      "price": 1414
     },
     {
       "id": 99,
       "name": "Springfield 1911",
       "category": "Secondary",
-      "price": 1000
+      "price": 984
     },
     {
       "id": 16,
       "name": "USP",
       "category": "Secondary",
-      "price": 1060
+      "price": 1059
+    },
+    {
+      "id": 490,
+      "name": "Blunderbuss",
+      "category": "Secondary",
+      "price": 980
     },
     {
       "id": 15,
       "name": "Beretta M9",
       "category": "Secondary",
-      "price": 702
+      "price": 701
     },
     {
       "id": 189,
       "name": "S&W Revolver",
       "category": "Secondary",
-      "price": 608
+      "price": 609
     },
     {
       "id": 218,
       "name": "Crossbow",
       "category": "Secondary",
-      "price": 344
+      "price": 342
     },
     {
       "id": 14,
       "name": "Ruger 57",
       "category": "Secondary",
-      "price": 267
+      "price": 266
     },
     {
       "id": 483,
       "name": "MP5k",
       "category": "Secondary",
-      "price": 301
+      "price": 298
     },
     {
       "id": 243,
       "name": "Taurus",
       "category": "Secondary",
-      "price": 279
+      "price": 277
     },
     {
       "id": 489,
       "name": "Luger",
       "category": "Secondary",
-      "price": 263
-    },
-    {
-      "id": 253,
-      "name": "Lorcin 380",
-      "category": "Secondary",
-      "price": 218
+      "price": 258
     },
     {
       "id": 486,
       "name": "TMP",
       "category": "Secondary",
-      "price": 245
+      "price": 241
+    },
+    {
+      "id": 253,
+      "name": "Lorcin 380",
+      "category": "Secondary",
+      "price": 184
     },
     {
       "id": 485,
       "name": "Skorpion",
       "category": "Secondary",
-      "price": 181
+      "price": 180
     },
     {
       "id": 13,
       "name": "Raven MP25",
       "category": "Secondary",
-      "price": 200
+      "price": 198
     },
     {
       "id": 12,
@@ -3930,25 +3930,25 @@
       "id": 614,
       "name": "Diamond Bladed Knife",
       "category": "Melee",
-      "price": 671722
+      "price": 665094
     },
     {
       "id": 395,
       "name": "Metal Nunchaku",
       "category": "Melee",
-      "price": 294375
+      "price": 302564
     },
     {
       "id": 400,
       "name": "Guandao",
       "category": "Melee",
-      "price": 104410
+      "price": 104224
     },
     {
       "id": 146,
       "name": "Yasukuni Sword",
       "category": "Melee",
-      "price": 96133
+      "price": 95971
     },
     {
       "id": 605,
@@ -3960,193 +3960,193 @@
       "id": 391,
       "name": "Macana",
       "category": "Melee",
-      "price": 74360
+      "price": 76761
     },
     {
       "id": 237,
       "name": "Kodachi",
       "category": "Melee",
-      "price": 65100
+      "price": 69298
     },
     {
       "id": 217,
       "name": "Claymore Sword",
       "category": "Melee",
-      "price": 52190
+      "price": 52116
     },
     {
       "id": 251,
       "name": "Wushu Double Axes",
       "category": "Melee",
-      "price": 47710
+      "price": 47674
     },
     {
       "id": 11,
       "name": "Samurai Sword",
       "category": "Melee",
-      "price": 36990
+      "price": 37136
     },
     {
       "id": 250,
       "name": "Twin Tiger Hooks",
       "category": "Melee",
-      "price": 31844
+      "price": 32248
     },
     {
       "id": 1257,
       "name": "Cattle Prod",
       "category": "Melee",
-      "price": 29373
+      "price": 28984
     },
     {
       "id": 236,
       "name": "Kama",
       "category": "Melee",
-      "price": 27332
+      "price": 27060
     },
     {
       "id": 402,
       "name": "Ice Pick",
       "category": "Melee",
-      "price": 10439
+      "price": 10345
     },
     {
       "id": 247,
       "name": "Katana",
       "category": "Melee",
-      "price": 9125
+      "price": 9095
     },
     {
       "id": 10,
       "name": "Chainsaw",
       "category": "Melee",
-      "price": 7759
+      "price": 7745
     },
     {
       "id": 438,
       "name": "Cricket Bat",
       "category": "Melee",
-      "price": 6834
+      "price": 6800
     },
     {
       "id": 9,
       "name": "Scimitar",
       "category": "Melee",
-      "price": 3638
+      "price": 3602
     },
     {
       "id": 111,
       "name": "Ninja Claws",
       "category": "Melee",
-      "price": 3465
-    },
-    {
-      "id": 235,
-      "name": "Wooden Nunchaku",
-      "category": "Melee",
-      "price": 2820
+      "price": 3450
     },
     {
       "id": 234,
       "name": "Chain Whip",
       "category": "Melee",
-      "price": 1766
+      "price": 2801
     },
     {
-      "id": 8,
-      "name": "Axe",
+      "id": 235,
+      "name": "Wooden Nunchaku",
       "category": "Melee",
-      "price": 1448
+      "price": 2728
     },
     {
       "id": 1255,
       "name": "Bone Saw",
       "category": "Melee",
-      "price": 1390
+      "price": 1463
+    },
+    {
+      "id": 8,
+      "name": "Axe",
+      "category": "Melee",
+      "price": 1436
     },
     {
       "id": 224,
       "name": "Swiss Army Knife",
       "category": "Melee",
-      "price": 1265
-    },
-    {
-      "id": 1231,
-      "name": "Golf Club",
-      "category": "Melee",
-      "price": 1068
+      "price": 1248
     },
     {
       "id": 7,
       "name": "Dagger",
       "category": "Melee",
-      "price": 936
+      "price": 954
+    },
+    {
+      "id": 1231,
+      "name": "Golf Club",
+      "category": "Melee",
+      "price": 747
     },
     {
       "id": 6,
       "name": "Kitchen Knife",
       "category": "Melee",
-      "price": 671
+      "price": 675
     },
     {
       "id": 173,
       "name": "Butterfly Knife",
       "category": "Melee",
-      "price": 637
+      "price": 636
     },
     {
       "id": 440,
       "name": "Pillow",
       "category": "Melee",
-      "price": 559
-    },
-    {
-      "id": 147,
-      "name": "Rusty Sword",
-      "category": "Melee",
-      "price": 557
+      "price": 636
     },
     {
       "id": 110,
       "name": "Leather Bullwhip",
       "category": "Melee",
-      "price": 403
+      "price": 410
     },
     {
       "id": 238,
       "name": "Sai",
       "category": "Melee",
-      "price": 380
+      "price": 372
+    },
+    {
+      "id": 147,
+      "name": "Rusty Sword",
+      "category": "Melee",
+      "price": 427
     },
     {
       "id": 245,
       "name": "Bo Staff",
       "category": "Melee",
-      "price": 254
+      "price": 293
     },
     {
       "id": 5,
       "name": "Pen Knife",
       "category": "Melee",
-      "price": 244
+      "price": 243
     },
     {
       "id": 604,
       "name": "Pair of Ice Skates",
       "category": "Melee",
-      "price": 184
+      "price": 176
     },
     {
       "id": 227,
       "name": "Spear",
       "category": "Melee",
-      "price": 157
+      "price": 156
     },
     {
       "id": 4,
       "name": "Knuckle Dusters",
       "category": "Melee",
-      "price": 146
+      "price": 147
     },
     {
       "id": 439,
@@ -4158,25 +4158,25 @@
       "id": 846,
       "name": "Scalpel",
       "category": "Melee",
-      "price": 103
+      "price": 98
     },
     {
       "id": 2,
       "name": "Baseball Bat",
       "category": "Melee",
-      "price": 83
+      "price": 80
     },
     {
       "id": 346,
       "name": "Pair of High Heels",
       "category": "Melee",
-      "price": 79
+      "price": 68
     },
     {
       "id": 3,
       "name": "Crowbar",
       "category": "Melee",
-      "price": 69
+      "price": 68
     },
     {
       "id": 401,
@@ -4206,61 +4206,61 @@
       "id": 641,
       "name": "WWII Helmet",
       "category": "Armor",
-      "price": 50399
+      "price": 50238
     },
     {
       "id": 49,
       "name": "Full Body Armor",
       "category": "Armor",
-      "price": 41973
+      "price": 42214
     },
     {
       "id": 645,
       "name": "Safety Boots",
       "category": "Armor",
-      "price": 33949
+      "price": 34454
     },
     {
       "id": 34,
       "name": "Bulletproof Vest",
       "category": "Armor",
-      "price": 18729
+      "price": 18815
     },
     {
       "id": 643,
       "name": "Construction Helmet",
       "category": "Armor",
-      "price": 6330
+      "price": 6334
     },
     {
       "id": 33,
       "name": "Police Vest",
       "category": "Armor",
-      "price": 4267
+      "price": 4243
     },
     {
       "id": 646,
       "name": "Hiking Boots",
       "category": "Armor",
-      "price": 2493
+      "price": 2511
     },
     {
       "id": 178,
       "name": "Flak Jacket",
       "category": "Armor",
-      "price": 2439
+      "price": 2443
     },
     {
       "id": 176,
       "name": "Chain Mail",
       "category": "Armor",
-      "price": 1877
+      "price": 1865
     },
     {
       "id": 32,
       "name": "Leather Vest",
       "category": "Armor",
-      "price": 725
+      "price": 720
     },
     {
       "id": 648,
@@ -4272,7 +4272,7 @@
       "id": 647,
       "name": "Leather Helmet",
       "category": "Armor",
-      "price": 400
+      "price": 398
     },
     {
       "id": 649,
@@ -4284,7 +4284,7 @@
       "id": 650,
       "name": "Leather Gloves",
       "category": "Armor",
-      "price": 204
+      "price": 203
     }
   ]
 }
